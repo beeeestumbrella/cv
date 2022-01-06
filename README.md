@@ -1,7 +1,7 @@
-## Yunxiang Yang(杨云翔)
-_Data Scientist at UPS based in Mahwah, New Jersey_.<br>
+## Yuer Wang(王雨儿)
+_Graduate student at University of Michigan_.<br>
 
-[Email](mailto:winstonyang@gmail.com) / [Website](https://winstonyang117.github.io/) / [LinkedIn](https://www.linkedin.com/in/yunxiang-yang-505324203/) / [GitHub](https://github.com/winstonyang117) 
+[Email](mailto:banayuw@umich.edu) / [Website](https://winstonyang117.github.io/) / [LinkedIn](https://www.linkedin.com/in/yuer-wang-1a2241167/) / [GitHub](https://github.com/winstonyang117) 
 
 ## 🎓 Eduacation
 **Stevens Institute of Technology** Hoboken, New Jersey _(January 2020 - May 2021)_<br>
