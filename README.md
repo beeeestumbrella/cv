@@ -1,5 +1,5 @@
 ## Yuer Wang(王雨儿)
-_Graduate student at University of Michigan_.<br>
+_Graduate student at the University of Michigan, Ann Arbor_.<br>
 
 [Email](mailto:banayuw@umich.edu) / [Website](https://winstonyang117.github.io/) / [LinkedIn](https://www.linkedin.com/in/yuer-wang-1a2241167/) / [GitHub](https://github.com/winstonyang117) 
 
