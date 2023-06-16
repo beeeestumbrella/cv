@@ -145,6 +145,7 @@ _Graduate student at the University of Michigan, Ann Arbor_.<br>
 - Completed policy evaluation based on four criteria: the potential for sustainable development, impact on low-income households, impact on government budget, and political feasibility 
 - Concluded that government subsidies for forest restoration and cash crop expansion could be a win-win situation
 <br><br>
+
 **Energy Policy: Rise of Electric and Plug-in Hybrid Vehicle** Davis, CA _(April 2018 - June 2018)_<br>
 - Investigated the supply and demand sides of EV markets in California with Prof. Alan Jenn
 - Collected vehicle data from Auto-trader and Carfax websites for about 50 models of EVs and monitored the sales cycles 
@@ -172,10 +173,17 @@ _Graduate student at the University of Michigan, Ann Arbor_.<br>
 <br><br>
 
 ## 💡 Skills
-- R
-- STATA
-- Data Visualization (R, Excel)
-- GIS (ArcGIS, GoogleMap)
+- Quantitative
+  - R
+  - STATA
+  - Data Visualization (R, Excel)
+  - GIS (ArcGIS, GoogleMap)
+  - Sensitivitiy Analysis
+- Qualitative
+  - Content coding/analysis
+  - Best practice research
+  - Comparative qualitative analysis
+  - Interviewing
 - Google Workspace
 - Microsoft Office
 
