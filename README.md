@@ -125,7 +125,7 @@ _Graduate student at the University of Michigan, Ann Arbor_.<br>
 - Generated a formal policy brief documents and presented our findings in class
 
 ## 👩🏻‍🎓 Research Projects at UC DAVIS 
-**How California’s Rebate Policies Impact Purchasing Interests in Electric Vehicles** Davis, CA _(Janurary 2020 - March 2020)_<br>
+**How California’s Rebate Policies Impact Purchasing Interests in Electric Vehicles** - Davis, CA _(Janurary 2020 - March 2020)_<br>
 - Designed Longitudinal-Panel research to explore the association between the change in rebate policies and people's interests in purchasing EVs via surveys 
 - Addressed the internal validity using five criteria and ensured the external validity by comparing demographic information and transportation modes between the levels of Sacramento and of California based on the American Community Survey 
 - Proposed specific sampling plans, targeting 1,600 residents in Sacramento to obtain at least 400 final responses 
@@ -134,19 +134,19 @@ _Graduate student at the University of Michigan, Ann Arbor_.<br>
 - Presented budget plans including personnel, equipment, purchase of a database for addresses, copies and mailing of surveys and reminder postcards
 <br><br>
 
-**Analysis of the Desert Renewable Energy Conservation Plan in California** Davis, CA _(Septemer 2019 - December 2019)_<br>
+**Analysis of the Desert Renewable Energy Conservation Plan in California** - Davis, CA _(Septemer 2019 - December 2019)_<br>
 - Analyzed the conflicts between the expansion of energy construction and ecosystem conservation in California 
 - Resolved the controversy by proposing an alternative re-zoning plan to expand the development area and establish a regulatory agency to monitor the effects resulting from the construction, aimed at enhancing sustainable energy system development while protecting the ecosystems 
 <br><br>
 
-**Policy Evaluation: Cash Crop Expansion Analysis** Davis, CA _(Septemer 2018 - December 2018)_<br>
+**Policy Evaluation: Cash Crop Expansion Analysis** - Davis, CA _(Septemer 2018 - December 2018)_<br>
 - Conducted research on the problem of cash crop expansion in subtropical China 
 - Proposed three alternative policies to balance the tradeoff between economic development and ecosystem repair 
 - Completed policy evaluation based on four criteria: the potential for sustainable development, impact on low-income households, impact on government budget, and political feasibility 
 - Concluded that government subsidies for forest restoration and cash crop expansion could be a win-win situation
 <br><br>
 
-**Energy Policy: Rise of Electric and Plug-in Hybrid Vehicle** Davis, CA _(April 2018 - June 2018)_<br>
+**Energy Policy: Rise of Electric and Plug-in Hybrid Vehicle** - Davis, CA _(April 2018 - June 2018)_<br>
 - Investigated the supply and demand sides of EV markets in California with Prof. Alan Jenn
 - Collected vehicle data from Auto-trader and Carfax websites for about 50 models of EVs and monitored the sales cycles 
 - Interviewed sales representatives at dealerships in Elk Grove Auto Mall in California to investigate selling experiences, promotional activities, government incentives, customers’ inquiries, and customers’ adoption practices 
