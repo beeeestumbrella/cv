@@ -4,7 +4,7 @@ _Graduate student at the University of Michigan, Ann Arbor_.<br>
 [Email](mailto:banayuw@umich.edu) /  [LinkedIn](https://www.linkedin.com/in/yuer-wang-1a2241167/) 
 
 ## 🎓 Eduacation
-**University of Michigan** Ann Arbor, Michigan _(August 2021 - Present)_<br>
+**University of Michigan** Ann Arbor, MI _(August 2021 - Present)_<br>
   - Master of Science in Environment and Sustainability (School for Environment and Sustainability)
     - Environmental Policy and Planning  
   - Master of Public Policy (Gerald R. Ford School of Public Policy)
@@ -16,25 +16,46 @@ _Graduate student at the University of Michigan, Ann Arbor_.<br>
   - Coursework: Justice Agendas for Addressing Environmental Crisis, Water Policy&Politics, Energy Justice, Behavior&Environment, Natural Resource Statistics, Quantitative Program Evaluation, Data Visualization, Performance Management, Values&Ethics, Macroeconomics, Microeconomics, Public Management, R for Public Policy 
 <br><br>
 
-**University of California, Davis** Davis, California _(September 2016 - June 2020)_<br>
+**University of California, Davis** Davis, CA _(September 2016 - June 2020)_<br>
   - Bachelor of Science in Environmental Policy Analysis and Planning (College of Agricultural and Environmental Sciences)
   - Minor in Music
   - **GPA: 3.87**
   - **Honors🏆:** 
-    - **Winner of the 2020 Paul A. Sabatier Undergraduate Research Award for Environmental Policy Analysis and Planning from the College of Agricultural and Environmental Sciences**
+    - **Winner of 2020 Paul A. Sabatier Undergraduate Research Award for Environmental Policy Analysis and Planning from the College of Agricultural and Environmental Sciences**
     - **Citation for Outstanding Performance from the College of Agricultural and Environmental Sciences**
 <br><br>
+
 ## 🧑🏻‍💻 Professional Experience
-**International Fund for Animal Welfare (IFAW)** Remote _(May 2023 - Present)_<br>
+**International Fund for Animal Welfare (IFAW)** - Remote _(May 2023 - Present)_<br>
 **Position:** Wildlife Policy and Analayis Intern in U.S. Campaign Team
 <br><br>
 
-**Department of Public Health, City of Dearborn (DPH)** Dearborn, Michigan _(Janurary 2023 - April 2023)_<br>
+**Department of Public Health, City of Dearborn (DPH)** - Dearborn, MI _(Janurary 2023 - April 2023)_<br>
 **Position:** Graduate Research Fellow
 <br><br>
 
-**International Fund for Animal Welfare (IFAW)** Remote _(June 2022 - December 2022)_<br>
+**International Fund for Animal Welfare (IFAW)** - Remote _(June 2022 - December 2022)_<br>
 **Position:** Wildlife Policy and Analayis Intern in U.S. Campaign Team
+<br><br>
+
+**Water and Climate Policy Lab, University of Michigan** - Ann Arbor, MI _(Janurary 2022 - June 2022)_<br>
+**Position:** Graduate Research Assistant
+<br><br>
+
+**Gerald R. Ford School of Public Policy, University of Michigan** - Ann Arbor, MI _(September 2021 - December 2021)_<br>
+**Position:** Graduate Statistics Tutor
+<br><br>
+
+**Department of Environmental Science and Policy, University of California, Davis** - Davis, CA _(April 2019 - August 2021)_<br>
+**Position:** Undergraduate Research Assistant
+<br><br>
+
+**Institute of Transportational Studies, University of California, Davis** - Davis, CA _(April 2018 - December 2020)_<br>
+**Position:** Undergraduate Research Assistant
+<br><br>
+
+**Student Farm, University of California, Davis** - Davis, CA _(Janurary 2018 - April 2018)_<br>
+**Position:** Fresh Focus Program Intern
 <br><br>
 
 ## 🧑🏻‍🔬 Research Experience
