@@ -1,13 +1,14 @@
 ## Yuer Wang(王雨儿)
 _Graduate student at the University of Michigan, Ann Arbor_.<br>
 
-[Email](mailto:banayuw@umich.edu) / [Website](https://winstonyang117.github.io/) / [LinkedIn](https://www.linkedin.com/in/yuer-wang-1a2241167/) / [GitHub](https://github.com/winstonyang117) 
+[Email](mailto:banayuw@umich.edu) / [Website](https://beeeestumbrella.github.io/cv/) / [LinkedIn](https://www.linkedin.com/in/yuer-wang-1a2241167/) 
 
 ## 🎓 Eduacation
-**Stevens** Hoboken, New Jersey _(January 2020 - May 2021)_<br>
-  - School of Electrical and Computer Engineering
-  - M.S. in Electric Engineering with AI concentration
-  - **GPA: 3.934**
+**University of Michigan** Ann Arbor, Michigan _(August 2021 - Present)_<br>
+  - Master of Science in Environment and Sustainability (School for Environment and Sustainability)
+    - Environmental Policy and Planning  
+  - Master of Public Policy (Gerald R. Ford School of Public Policy)
+  - **GPA: 3.98**
   - Coursework: EE603 Signals and Systems, EE605 Prob&Stochastic Proc I, EE548 Digital Signal Processing, EE627 Data Acquisition/Proc I, EE575 Control Systems, CPE646 Pattern Recognition&classify- cation, CPE695 Applied Machine Learning, EE608 Applied Modeling&Optimization, EE900 Thesis in Electrical Engineering
 <br><br>
 
