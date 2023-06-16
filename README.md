@@ -28,53 +28,81 @@ _Graduate student at the University of Michigan, Ann Arbor_.<br>
 
 ## 👩🏻‍💻 Professional Experience
 **International Fund for Animal Welfare (IFAW)** - Remote _(May 2023 - Present)_<br>
-**Position:** Wildlife Policy and Analayis Intern in U.S. Campaign Team
+**Position:** Wildlife Policy and Analayis Intern in U.S. Campaign Team<br>
+**Duties:** 
+- Drafting U.S. version's Disaster Response Plan for animals in disasters under the current climate change trend
 <br><br>
 
 **Department of Public Health, City of Dearborn (DPH)** - Dearborn, MI _(Janurary 2023 - April 2023)_<br>
-**Position:** Graduate Research Fellow
+**Position:** Graduate Research Fellow<br>
+**Duties:** 
+- Supported Dearborn DPH priorities in areas including environmental health, behavioral health, and health communications
+- Drafted public memos for health impacts associated with climate change for Dearborn residents
+- Primarily worked on the Water Lead Project, conducting a landscape analysis and raising awareness about the impacts of lead on Dearborn residents
+  - Collaborated with both internal and external partners to ensure a Health In All policy approach and built culturally sensitive outreach materials (informational websites, door-hangers, and handouts) designed to be accessible to a diverse range of residents
+- Conducted research on the best general health practices for children aged 3 to 5 on topics ranging from water safety to mental health and created informational materials to best communicate relevant child health resources to Dearborn parents
 <br><br>
 
 **International Fund for Animal Welfare (IFAW)** - Remote _(June 2022 - December 2022)_<br>
-**Position:** Wildlife Policy and Analayis Intern in U.S. Campaign Team
+**Position:** Wildlife Policy and Analayis Intern in U.S. Campaign Team<br>
+**Duties:** 
+- Prepared literature review on peer-review articles which investigate the interdependence of wildlife conservation and climate change mitigation as well as adaptation for a report about this topic that will be published by IFAW in the near future
+- Drafted the public comment submitted to the Federal Register, representing IFAW to comment on the U.S. Fish and Wildlife Serivce’s proposed rule on experimental population designation (FWS-HQ-ES-2021-0033)
+- Conducted research on the impact of predation on livestock industry and the effectiveness of lethal predator controls in preparation for the testimony that IFAW submitted to the House Committee on Natural Resources in support of the passage of Canyon’s Law (H.R. 4951)
+- Prepared presentation materials on topics relevant to ESG (Environmental, social, and corporate governance) investing and green finance and investigated examples of green finance behaviors by institutions
 <br><br>
 
 **Water and Climate Policy Lab, University of Michigan** - Ann Arbor, MI _(Janurary 2022 - June 2022)_<br>
-**Position:** Graduate Research Assistant
+**Position:** Graduate Research Assistant<br>
+**Duties:**
+- Co-authored a Urban Climate Change Policy and Politics chapter in Handbook of Urban Politics and Policy, edited by Ronald K. Vogel (Toronto Metropolitan University) with Dr. Sara Hughes, offering overview of urban climate change policy and politics scholarship and how it has developed over the last 30 years, discussing important challenges faces going forward, and concluding areas of research that are well positioned to strengthen urban climate policy scholarship and practice (soon to be published)
 <br><br>
 
 **Gerald R. Ford School of Public Policy, University of Michigan** - Ann Arbor, MI _(September 2021 - December 2021)_<br>
-**Position:** Graduate Statistics Tutor
+**Position:** Graduate Statistics Tutor for PubPol 529 (Standard and Augmented Graduate-level Statistics)<br>
+**Duties:** 
+- Held 2-3 tutoring sessions per week to explain class materials and go over problem sets, quizzes, and exams
+- Graded 9 problem sets for each class to provide timely feedback to a total of 135 students on their performances in classes
 <br><br>
 
 **Department of Environmental Science and Policy, University of California, Davis** - Davis, CA _(April 2019 - August 2021)_<br>
-**Position:** Undergraduate Research Assistant
+**Position:** Undergraduate Research Assistant<br>
+**Duties:** 
+- Co-authored a paper to be submitted to an environmental management journal, concerning city government approaches to managing e-scooters and e-bikes (micro-mobility); starting the literature review, content analysis of interviews with city government employees, and coding themes (suspended project) 
+- Took a leading role in examining the narratives from anti-fracking organizations, coding the policy narratives. conducting the literature review, and writing up in-depth case-study profiles for major “Boom and Bust” counties and cities for understanding the strategies used by pro- and anti-fracking advocates seeking to influence local and regional policy in the Marcellus Shale Region of the United States and co-authored papers published in Review of Policy Research and Energy Research & Social Sciences
+- Assisted Dr. Gwen Arnold in the paper published by the Public Administration with reviewing scholarly literature about policy entrepreneurship among front-line environmental managers and drafting the literature review 
+- Conducted research on fracking-related issues by analyzing municipal meeting minutes in New York and Colorado states to examine whether low-income communities are less likely to engage politically on fracking then more affluent communities 
 <br><br>
 
 **Institute of Transportational Studies, University of California, Davis** - Davis, CA _(April 2018 - December 2020)_<br>
-**Position:** Undergraduate Research Assistant
+**Position:** Undergraduate Research Assistant<br>
+**Duties:** 
+- Investigated the supply and demand sides of EV markets in California for a group project under the supervision of Dr. Alan Jenn: collected vehicle data from Auto-trader and Carfax websites for about 50 models of EVs and monitored the sales cycles, interviewed sales representatives at dealerships in Elk Grove Auto Mall in California to investigate selling experiences, promotional activities, government incentives, customers’ inquiries, and adoption practices, concluded that the supply and demand in the EV market were growing slowly, and the availability of EVs was largely dependent on regions and customers’ demands 
+- Assisted with conducting further studies on states’ transportation appropriation for an follow-up investigation of the California SB1 (Road Repair and Accountability Act of 2017), including data collection and categorization of transportation funds and of budget allocations in each state from 2010 to 2019 
 <br><br>
 
 **Student Farm, University of California, Davis** - Davis, CA _(Janurary 2018 - April 2018)_<br>
-**Position:** Fresh Focus Program Intern
+**Position:** Fresh Focus Program Intern<br>
+**Duties:** 
+- Harvested vegetables and helped farmers with agricultural practices, including transplanting and weeding 
+- Improved collaboration and communication skills and nurtured a hard-working spirit and sense of responsibility
 <br><br>
 
 ## 👩🏻‍🔬 Research Projects at UMICH
 **Master's Thesis for M.S. in Environment and Sustainability** - Ann Arbor, MI _(June 2022 - Present)_<br>
-**Supervised by Dr. Sara Hughes
-**Objective:** Address Proximity
-  - Profile UPS customers and find relationship between UPS Access Point and a large amount of Delivery Location Point
-  - It is a data mining and clustering exercise on UPS delivery data.
-  - The goal is to be able to recommend an alternative delivery location to UPS customers.
-  - Business values include transportation cost saving, improve delivery density and new business opportunities with local partners.
+**Supervised by Dr. Sara Hughes**<br>
+- Investigate why some cities are more successful than others in implementing equity promises of climate action plans in California through addressing: (1) have cities that include equity promises in their climate plans developed strong implementation strategies to implement those promises/actions; (2) what is the actual implementation status of the equity promises/actions addressed in the plan; (3) is there a match between the strength of implementation strategies and implementation status; and (4) what are the implementation opportunities and challenges do cities face 
+- Primary methods include data collection, content analysis, qualitative comparative analysis, evaluation metric development, interviews, policy evaluation, and statistical analysis (if necessary)
+- Plan to be submitted to a peer-reviewed journal in April 2023 
 <br><br>
 
 **2023 Dow Sustainability Fellowship Project (team of 4)** - Ann Arbor, MI _(Janurary 2022 - Present)_<br>
-**Objective:** Aggressive driver behavior analysis
-  - Trained LSTM and Random Forest Model with public sensor data
-  - Completed training work on Google Cloud Platform
-  - The trained models were returned to Flask server then returned aggressive/non-aggressive events to HTML/CSS/JavaScript dashboard.
-  - Designed a web-based dashboard to display our analysis and further expansion
+**Client:** [Elevate (non-profit)](https://www.elevatenp.org/)
+- Collaborate with Elevate to specifically help with climate resilience and equity issues in Southeast Michigan
+  - Analyze the disparate climate and resilience strategies across Southeast Michigan using the benchmarks created by the team 
+  - Conduct comparate policy analysis of the plans and synthesize the best practices as a toolkit for municipalities and evalute where are the actions that align with Elevate’s strength so they can fit in to help
+  - Work together with community partners on the Eastside Resilience Initiatives to form a large network of resilience hubs in Detroit’s east side
+  - Define types of climate emergencies and conditions of facility/staff activations of resilience hubs
 <br><br>
 
 **Innovation for Impact: Climate Change** - Ann Arbor, MI _(August 2022 - December 2022)_<br>
