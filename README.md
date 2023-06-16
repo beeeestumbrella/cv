@@ -11,8 +11,8 @@ _Graduate student at the University of Michigan, Ann Arbor_.<br>
     - Public Policy Analysis 
   - **GPA: 3.98**
   - **Honors🏆:** 
-    - **2023 Dow Sustainability Fellowship Recipient at Graham Sustainability Institute**
-    - **Winter 2023 Pragram in Practical Policy Engagement (P3E) Student Research Fellowship at Gerald R. Ford School of Public Policy** 
+    - **2023 Dow Sustainability Fellowship Recipient** at [Graham Sustainability Institute](https://graham.umich.edu/dow)
+    - **Winter 2023 Pragram in Practical Policy Engagement (P3E) Student Research Fellowship** at Gerald R. Ford School of Public Policy
   - Coursework: Justice Agendas for Addressing Environmental Crisis, Water Policy&Politics, Energy Justice, Behavior&Environment, Natural Resource Statistics, Quantitative Program Evaluation, Data Visualization, Performance Management, Values&Ethics, Macroeconomics, Microeconomics, Public Management, R for Public Policy 
 <br><br>
 
@@ -21,8 +21,8 @@ _Graduate student at the University of Michigan, Ann Arbor_.<br>
   - Minor in Music
   - **GPA: 3.87**
   - **Honors🏆:** 
-    - **Winner of 2020 Paul A. Sabatier Undergraduate Research Award for Environmental Policy Analysis and Planning from the College of Agricultural and Environmental Sciences**
-    - **Citation for Outstanding Performance from the College of Agricultural and Environmental Sciences**
+    - **Winner of 2020 Paul A. Sabatier Undergraduate Research Award for Environmental Policy Analysis and Planning** from the College of Agricultural and Environmental Sciences
+    - **Citation for Outstanding Performance** from the College of Agricultural and Environmental Sciences
 
 <br><br>
 
@@ -124,45 +124,27 @@ _Graduate student at the University of Michigan, Ann Arbor_.<br>
 - Klasic, M. et al. (2022). A Review of community impacts of boom-bust cycles in unconventional oil and gas development. _Energy Research & Social Science_, 93, 102843. https://doi.org/10.1016/j.erss.2022.102843
 <br><br>
 
-## 💡 Involvement
+## 🙋🏻‍♀️ Involvement
 - Sexual Assault and Prevention Awareness Center - Ann Arbor, MI _(Septemer 2022 -  Present)_<br>
   - **Trained Volunteer** of Graduate Research, Outreach, Workshops, and Evaluation (GROWE) program
 - Blood Drives United - Ann Arbor, MI _(Septemer 2022 -  Present)_<br>
   - **Trained Volunteer**
 - Michigan University-wide Sustainability and Environment Conference - Ann Arbor, MI _(July 2021 -  Feburary 2022)_<br>
-  - 2022 Conference Committee Member
+  - **2022 Conference Committee Member**
    - Primary duties include brainstorming possible list of speakers for committee to review, contacting and inviting speakers, brainstorming possible list of events, settling structures of events, and developing detailed conference agendas
-
-
-
-
-
-
-
-
-
-
-
-
-
-## 🏆 HONORS AND AWARDS
-- 2021.7 UPS Hackathon Final FAB FOUR **(4/24)**, presented to CEO&CIEO at UPS.
-- 2020.7 Third-prize in Stevens ECE Honor Summer Research Program, University Level
-- 2018.7 Excellent Graduation Design, University Level **(10/459)**
-- 2017-2018 Third-prize Scholarship, University Level
-- 2017 Certificate of **“National Level of Electronic Information Professionals”** by Chinese Institute of Electronics, Assistant Engineer Level
-- 2017 Second-prize in National Final of Intelligent Internet Competition, **National Level**
-- 2016-2017 Second-prize Scholarship, University Level
-- 2015 Second prize in Academic English Speech Contest, University Level
-- 2015 First prize in Photo-Electronic Design Contest, University Level
-- 2014 Third-prize Scholarship, University Level
+- Environmental Justice Lunchtime Speaker Series: Just Agendas for Addressing Environmental Crisis - Ann Arbor, MI _(September 2021)_<br>
+  - **Facilitator and Commentator**
+- UC Davis Symphony Orchestra - Davis, CA _(Septemer 2018 -  June 2019)_<br>
+  - **Cellist**🎵 
+<br><br>
 
 ## 💡 Skills
-- Computer Vision(OpenCV), Hyper Performance Computing(CUDA in NLP)
-- Windows & Linux Heterogeneous Programming(C++), Python, SQL, BigQuery, Matlab
-- Google Cloud Platform
-- Biomedical signal & image processing
-- Arduino, AVR, STC51
-- Quadrotor UAV, APM
-- Raspberry Pi, NVIDIA Jetson TK1
-- Hukoyo Single Line LIDAR, Velodyne 32 Lines LIDAR
+- R
+- STATA
+- Data Visualization (R, Excel)
+- GIS (ArcGIS, GoogleMap)
+- Google Workspace
+- Microsoft Office
+
+## 🌷 Life
+- my baby Baguette 🐈 wants to say hi to you!
