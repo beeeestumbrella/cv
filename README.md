@@ -16,7 +16,6 @@ _Graduate student at the University of Michigan, Ann Arbor_.<br>
   - Coursework: Justice Agendas for Addressing Environmental Crisis, Water Policy&Politics, Energy Justice, Behavior&Environment, Natural Resource Statistics, Quantitative Program Evaluation, Data Visualization, Performance Management, Values&Ethics, Macroeconomics, Microeconomics, Public Management, R for Public Policy 
 
 <br><br>
-
 **University of California, Davis** Davis, California _(September 2016 - June 2020)_<br>
   - Bachelor of Science in Environmental Policy Analysis and Planning (College of Agricultural and Environmental Sciences)
   - Minor in Music
