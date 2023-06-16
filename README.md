@@ -190,7 +190,7 @@ _Graduate student at the University of Michigan, Ann Arbor_.<br>
 ## 🌷 A little bit about my life
 - My 3-year-old orange cat 🐈 is my panacea 
 - I'm the star baker in my family 👩🏻‍🍳
-  - Also an advocate of stress baking to cope with the crazy world 🥐
-- Weight-lifting is a must-have in my life 🏋🏻‍♀️
+  - an advocate of stress baking to cope with the crazy world 🥐
+- Weight-lifting is a must-have in my life 💪🏻🏋🏻‍♀️
 - Books and music heals my soul 🥹
 
