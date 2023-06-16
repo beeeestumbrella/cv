@@ -60,7 +60,8 @@ _Graduate student at the University of Michigan, Ann Arbor_.<br>
 <br><br>
 
 ## 🧑🏻‍🔬 Research Experience at UMICH
-**Master's Thesis for M.S. in Environment and Sustainability** Ann Arbor, MI _(June 2022 - Present)_<br>
+**Master's Thesis for M.S. in Environment and Sustainability**
+Ann Arbor, MI _(June 2022 - Present)_<br>
 **Objective:** Address Proximity
   - Profile UPS customers and find relationship between UPS Access Point and a large amount of Delivery Location Point
   - It is a data mining and clustering exercise on UPS delivery data.
