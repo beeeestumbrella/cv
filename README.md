@@ -1,10 +1,10 @@
 ## Yuer Wang
 _Graduate student at the University of Michigan, Ann Arbor_.<br>
 
-[Email](mailto:banayuw@umich.edu) /  [LinkedIn](https://www.linkedin.com/in/yuer-wang-1a2241167/) 
+[Email](mailto:banayuw@umich.edu) / [Google Scholar](https://scholar.google.com/citations?user=sYaLXucAAAAJ&hl=en)/ [LinkedIn](https://www.linkedin.com/in/yuer-wang-1a2241167/) 
 
 ## 🎓 Eduacation
-**University of Michigan** Ann Arbor, MI _(August 2021 - Present)_<br>
+**University of Michigan** - Ann Arbor, MI _(August 2021 - Present)_<br>
   - Master of Science in Environment and Sustainability (School for Environment and Sustainability)
     - Environmental Policy and Planning  
   - Master of Public Policy (Gerald R. Ford School of Public Policy)
@@ -16,7 +16,7 @@ _Graduate student at the University of Michigan, Ann Arbor_.<br>
   - Coursework: Justice Agendas for Addressing Environmental Crisis, Water Policy&Politics, Energy Justice, Behavior&Environment, Natural Resource Statistics, Quantitative Program Evaluation, Data Visualization, Performance Management, Values&Ethics, Macroeconomics, Microeconomics, Public Management, R for Public Policy 
 <br><br>
 
-**University of California, Davis** Davis, CA _(September 2016 - June 2020)_<br>
+**University of California, Davis** - Davis, CA _(September 2016 - June 2020)_<br>
   - Bachelor of Science in Environmental Policy Analysis and Planning (College of Agricultural and Environmental Sciences)
   - Minor in Music
   - **GPA: 3.87**
@@ -60,8 +60,8 @@ _Graduate student at the University of Michigan, Ann Arbor_.<br>
 <br><br>
 
 ## 🧑🏻‍🔬 Research Experience at UMICH
-**Master's Thesis for M.S. in Environment and Sustainability**
-Ann Arbor, MI _(June 2022 - Present)_<br>
+**Master's Thesis for M.S. in Environment and Sustainability** - Ann Arbor, MI _(June 2022 - Present)_<br>
+**Supervised by Dr. Sara Hughes
 **Objective:** Address Proximity
   - Profile UPS customers and find relationship between UPS Access Point and a large amount of Delivery Location Point
   - It is a data mining and clustering exercise on UPS delivery data.
@@ -69,7 +69,7 @@ Ann Arbor, MI _(June 2022 - Present)_<br>
   - Business values include transportation cost saving, improve delivery density and new business opportunities with local partners.
 <br><br>
 
-**2021 UPS Hackathon** Mahwah, New Jersey _(07/14/2021 - 07/16/2021)_<br>
+**2023 Dow Sustainability Fellowship Project (team of 4)** - Ann Arbor, MI _(Janurary 2022 - Present)_<br>
 **Objective:** Aggressive driver behavior analysis
   - Trained LSTM and Random Forest Model with public sensor data
   - Completed training work on Google Cloud Platform
@@ -77,8 +77,7 @@ Ann Arbor, MI _(June 2022 - Present)_<br>
   - Designed a web-based dashboard to display our analysis and further expansion
 <br><br>
 
-
-**2021 Master Thesis in Electrical Engineering** Hoboken, New Jersey _(February 2021 - May 2021)_<br>
+**Innovation for Impact: Climate Change** - Ann Arbor, MI _(August 2022 - December 2022)_<br>
 **Objective:** Contactless vital signs measurement and analysis via FMCW radar<br>
 **Laboratory:** [The Bio-Electromagnetics Laboratory at Stevens Institute of Technology](https://www.tavassolian-lab.com/people)<br>
 **Advisor:** Associate Prof. Negar Tavassolian [Google Scholar](https://scholar.google.com/citations?hl=zh-CN&user=xTUFHmIAAAAJ)<br>
@@ -89,7 +88,7 @@ Ann Arbor, MI _(June 2022 - Present)_<br>
   - After calculation and Pearson correlation coefficient (PCC) analysis, 96.4% correlation (Apple watch 3 as reference signal) and 95.5% and 83.8% correlation (shimmer3 GSR + as reference signal) were achieved respectively.
 <br><br>
 
-**2020 ECE Student Honor Summer Research** Hoboken, New Jersey _(May 2020 - July 2020)_<br>
+**Research Fellow Projects: [Supporting Environmental Friendly Mining Legislation in Michigan](https://practicalpolicy.umich.edu/research-projects/supporting-environmentally-friendly-mining-legislation-michigan)** - Ann Arbor, MI _(Janurary 2022 - May 2022)_<br>
 **Objective:** Implementing and accelerating Transformer and BERT by using CUDA C/C++<br>
 **Laboratory:** [HPDA (High-Performance Data Analytics) Lab at Stevens Institute of Technology](https://web.stevens.edu/hpda/)<br>
 **Supervisor:** Associate Prof. Hang Liu [Google Scholar](https://scholar.google.com/citations?hl=zh-CN&user=EbTnLekAAAAJ)<br>
