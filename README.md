@@ -26,7 +26,7 @@ _Graduate student at the University of Michigan, Ann Arbor_.<br>
 
 <br><br>
 
-## 🧑🏻‍💻 Professional Experience
+## 👩🏻‍💻 Professional Experience
 **International Fund for Animal Welfare (IFAW)** - Remote _(May 2023 - Present)_<br>
 **Position:** Wildlife Policy and Analayis Intern in U.S. Campaign Team
 <br><br>
