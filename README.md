@@ -128,7 +128,7 @@ _Graduate student at the University of Michigan, Ann Arbor_.<br>
 - Sexual Assault and Prevention Awareness Center - Ann Arbor, MI _(Septemer 2022 -  Present)_<br>
   - **Trained Volunteer** of Graduate Research, Outreach, Workshops, and Evaluation (GROWE) program
 - Blood Drives United - Ann Arbor, MI _(Septemer 2022 -  Present)_<br>
-  - **Trained Volunteer
+  - **Trained Volunteer**
 - Michigan University-wide Sustainability and Environment Conference - Ann Arbor, MI _(July 2021 -  Feburary 2022)_<br>
   - 2022 Conference Committee Member
    - Primary duties include brainstorming possible list of speakers for committee to review, contacting and inviting speakers, brainstorming possible list of events, settling structures of events, and developing detailed conference agendas
