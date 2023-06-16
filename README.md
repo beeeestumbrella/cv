@@ -1,7 +1,7 @@
 ## Yuer Wang(王雨儿)
 _Graduate student at the University of Michigan, Ann Arbor_.<br>
 
-[Email](mailto:banayuw@umich.edu) / [Website](https://beeeestumbrella.github.io/cv/) / [LinkedIn](https://www.linkedin.com/in/yuer-wang-1a2241167/) 
+[Email](mailto:banayuw@umich.edu) /  [LinkedIn](https://www.linkedin.com/in/yuer-wang-1a2241167/) 
 
 ## 🎓 Eduacation
 **University of Michigan** Ann Arbor, Michigan _(August 2021 - Present)_<br>
