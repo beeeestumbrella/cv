@@ -59,7 +59,7 @@ _Graduate student at the University of Michigan, Ann Arbor_.<br>
 **Position:** Fresh Focus Program Intern
 <br><br>
 
-## 🧑🏻‍🔬 Research Experience at UMICH
+## 👩🏻‍🔬 Research Projects at UMICH
 **Master's Thesis for M.S. in Environment and Sustainability** - Ann Arbor, MI _(June 2022 - Present)_<br>
 **Supervised by Dr. Sara Hughes
 **Objective:** Address Proximity
@@ -98,7 +98,7 @@ _Graduate student at the University of Michigan, Ann Arbor_.<br>
   - The time to complete an epoch with shared memory optimization and non-optimization is 1.506s and 1.787s respectively.
 <br><br>
 
-**Undergraduate Innovation and Entrepreneurship Training Program** Changchun, China _(April 2016 - April 2017)_<br>
+**Water Policy & Politics: Climate Change and Threats to National Flood Insurance Program Affordability ** - Ann Arbor, MI _(Janurary 2022 - May 2022)_<br>
 **Objective:** To design a non-contact palmar vein recognition instrument based on image processing<br>
 **Supervisor:** Associate Prof. Shifeng Wang<br>
 **Position:** **Leader** of a 3-person team work
@@ -107,7 +107,8 @@ _Graduate student at the University of Michigan, Ann Arbor_.<br>
   - Utilized a mathematical method RANSAC for eliminating mismatched points.
 <br><br>
 
-**Study of Vortex Beams Based on LCOS-SLM** Changchun, China _(April 2016 - April 2017)_<br>
+## 👩🏻‍🎓 Research Projects at UC DAVIS 
+**Public Land Management** Davis, CA _(Septemer 2019 - December 2019)_<br>
 **Objective:** To implement vortex beams based on LCOS-SLM, then propose a new method producing vector vortex beams based on LCOS-SLM.<br>
 **Supervisor:** Prof. Zhiying Liu<br>
 **Position:** **Leader** of a 3-person team work, but **the only one** sticked to the end.
