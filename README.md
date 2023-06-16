@@ -3,7 +3,7 @@ _Graduate student at the University of Michigan, Ann Arbor_.<br>
 
 [Email](mailto:banayuw@umich.edu) / [Google Scholar](https://scholar.google.com/citations?user=sYaLXucAAAAJ&hl=en)/ [LinkedIn](https://www.linkedin.com/in/yuer-wang-1a2241167/) 
 
-## 🎓 Eduacation
+## 🎓 Education
 **University of Michigan** - Ann Arbor, MI _(August 2021 - Present)_<br>
   - Master of Science in Environment and Sustainability (School for Environment and Sustainability)
     - Environmental Policy and Planning  
