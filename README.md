@@ -4,7 +4,7 @@ _Graduate student at University of Michigan_.<br>
 [Email](mailto:banayuw@umich.edu) / [Website](https://winstonyang117.github.io/) / [LinkedIn](https://www.linkedin.com/in/yuer-wang-1a2241167/) / [GitHub](https://github.com/winstonyang117) 
 
 ## 🎓 Eduacation
-**Stevens Institute of Technology** Hoboken, New Jersey _(January 2020 - May 2021)_<br>
+**Stevens** Hoboken, New Jersey _(January 2020 - May 2021)_<br>
   - School of Electrical and Computer Engineering
   - M.S. in Electric Engineering with AI concentration
   - **GPA: 3.934**
