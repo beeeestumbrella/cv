@@ -20,7 +20,7 @@ _Graduate student at the University of Michigan, Ann Arbor_.<br>
   - Bachelor of Science in Environmental Policy Analysis and Planning (College of Agricultural and Environmental Sciences)
   - Minor in Music
   - **GPA: 3.87**
-  -  **Honors🏆:** 
+  - **Honors🏆:** 
     - **Winner of the 2020 Paul A. Sabatier Undergraduate Research Award for Environmental Policy Analysis and Planning from the College of Agricultural and Environmental Sciences**
     - **Citation for Outstanding Performance from the College of Agricultural and Environmental Sciences**
 
