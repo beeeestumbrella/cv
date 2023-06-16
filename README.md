@@ -8,15 +8,33 @@ _Graduate student at the University of Michigan, Ann Arbor_.<br>
   - Master of Science in Environment and Sustainability (School for Environment and Sustainability)
     - Environmental Policy and Planning  
   - Master of Public Policy (Gerald R. Ford School of Public Policy)
+    - Public Policy Analysis 
   - **GPA: 3.98**
-  - Coursework: EE603 Signals and Systems, EE605 Prob&Stochastic Proc I, EE548 Digital Signal Processing, EE627 Data Acquisition/Proc I, EE575 Control Systems, CPE646 Pattern Recognition&classify- cation, CPE695 Applied Machine Learning, EE608 Applied Modeling&Optimization, EE900 Thesis in Electrical Engineering
+  - **Honors:** 
+    - **2023 Dow Sustainability Fellowship Recipient at Graham Sustainability Institute**
+    - **Winter 2023 Pragram in Practical Policy Engagement (P3E) Student Research Fellowship at Gerald R. Ford School of Public Policy** 
+  - Coursework: Justice Agendas for Addressing Environmental Crisis, Water Policy&Politics, Energy Justice, Behavior&Environment, Natural Resource Statistics, Quantitative Program Evaluation, Data Visualization, Performance Management, Values&Ethics, Macroeconomics, Microeconomics, Public Management, R for Public Policy 
+
 <br><br>
 
-**Changchun University of Science and Technology** Changchun, China _(September 2014 - June 2018)_<br>
-  - School of Photo-Electronic Engineering
-  - B.Eng. in Engineering
-  - Major GPA: 3.4 Rank: 4/84
+**University of California, Davis** Davis, California _(September 2016 - June 2020)_<br>
+  - Bachelor of Science in Environmental Policy Analysis and Planning (College of Agriculture
+  - Minor in Music
+  - **GPA: 3.87**
 <br><br>
+
+## 🏆 HONORS AND AWARDS
+- 2021.7 UPS Hackathon Final FAB FOUR **(4/24)**, presented to CEO&CIEO at UPS.
+- 2020.7 Third-prize in Stevens ECE Honor Summer Research Program, University Level
+- 2018.7 Excellent Graduation Design, University Level **(10/459)**
+- 2017-2018 Third-prize Scholarship, University Level
+- 2017 Certificate of **“National Level of Electronic Information Professionals”** by Chinese Institute of Electronics, Assistant Engineer Level
+- 2017 Second-prize in National Final of Intelligent Internet Competition, **National Level**
+- 2016-2017 Second-prize Scholarship, University Level
+- 2015 Second prize in Academic English Speech Contest, University Level
+- 2015 First prize in Photo-Electronic Design Contest, University Level
+- 2014 Third-prize Scholarship, University Level
+
 
 ## 🧑🏻‍💻 Work Experience
 **United Parcel Service (UPS)** Mahwah, New Jersey _(August 2021 - Present)_<br>
