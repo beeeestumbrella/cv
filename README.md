@@ -23,6 +23,7 @@ _Graduate student at the University of Michigan, Ann Arbor_.<br>
   - **Honors🏆:** 
     - **Winner of 2020 Paul A. Sabatier Undergraduate Research Award for Environmental Policy Analysis and Planning from the College of Agricultural and Environmental Sciences**
     - **Citation for Outstanding Performance from the College of Agricultural and Environmental Sciences**
+
 <br><br>
 
 ## 🧑🏻‍💻 Professional Experience
