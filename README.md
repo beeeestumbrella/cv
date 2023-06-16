@@ -1,4 +1,4 @@
-## Yuer Wang(王雨儿)
+## Yuer Wang
 _Graduate student at the University of Michigan, Ann Arbor_.<br>
 
 [Email](mailto:banayuw@umich.edu) /  [LinkedIn](https://www.linkedin.com/in/yuer-wang-1a2241167/) 
