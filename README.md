@@ -117,7 +117,31 @@ _Graduate student at the University of Michigan, Ann Arbor_.<br>
   - Got Interferometric hologram.
 <br><br>
 
+
+## 📖 Publications
+
+- Arnold, G. et al. (2022). Boom, Bust, Action! How Communities Can Cope with Boom-Bust Cycles in Unconventional Oil and Gas Development. _Review of Policy Research_, 00, 1-29. https://doi.org/10.1111/ropr.12490
+- Klasic, M. et al. (2022). A Review of community impacts of boom-bust cycles in unconventional oil and gas development. _Energy Research & Social Science_, 93, 102843. https://doi.org/10.1016/j.erss.2022.102843
+<br><br>
+
 ## 💡 INVOLVEMENT
+- Sexual Assault and Prevention Awareness Center - Ann Arbor, MI _(Septemer 2022 -  Present)_<br>
+  - **Trained Volunteer** of Graduate Research, Outreach, Workshops, and Evaluation (GROWE) program
+- Blood Drives United - Ann Arbor, MI _(Septemer 2022 -  Present)_<br>
+  - **Trained Volunteer
+- Michigan University-wide Sustainability and Environment Conference - Ann Arbor, MI _(July 2021 -  Feburary 2022)_<br>
+  - 2022 Conference Committee Member
+   - Primary duties include brainstorming possible list of speakers for committee to review, contacting and inviting speakers, brainstorming possible list of events, settling structures of events, and developing detailed conference agendas
+
+
+
+
+
+
+
+
+
+
 
 
 
