@@ -18,23 +18,14 @@ _Graduate student at the University of Michigan, Ann Arbor_.<br>
 <br><br>
 
 **University of California, Davis** Davis, California _(September 2016 - June 2020)_<br>
-  - Bachelor of Science in Environmental Policy Analysis and Planning (College of Agriculture
+  - Bachelor of Science in Environmental Policy Analysis and Planning (College of Agricultural and Environmental Sciences)
   - Minor in Music
   - **GPA: 3.87**
+  -  **Honors🏆:** 
+    - **Winner of the 2020 Paul A. Sabatier Undergraduate Research Award for Environmental Policy Analysis and Planning from the College of Agricultural and Environmental Sciences**
+    - **Citation for Outstanding Performance from the College of Agricultural and Environmental Sciences**
+
 <br><br>
-
-## 🏆 HONORS AND AWARDS
-- 2021.7 UPS Hackathon Final FAB FOUR **(4/24)**, presented to CEO&CIEO at UPS.
-- 2020.7 Third-prize in Stevens ECE Honor Summer Research Program, University Level
-- 2018.7 Excellent Graduation Design, University Level **(10/459)**
-- 2017-2018 Third-prize Scholarship, University Level
-- 2017 Certificate of **“National Level of Electronic Information Professionals”** by Chinese Institute of Electronics, Assistant Engineer Level
-- 2017 Second-prize in National Final of Intelligent Internet Competition, **National Level**
-- 2016-2017 Second-prize Scholarship, University Level
-- 2015 Second prize in Academic English Speech Contest, University Level
-- 2015 First prize in Photo-Electronic Design Contest, University Level
-- 2014 Third-prize Scholarship, University Level
-
 
 ## 🧑🏻‍💻 Work Experience
 **United Parcel Service (UPS)** Mahwah, New Jersey _(August 2021 - Present)_<br>
