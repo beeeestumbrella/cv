@@ -124,7 +124,7 @@ _Graduate student at the University of Michigan, Ann Arbor_.<br>
 - Klasic, M. et al. (2022). A Review of community impacts of boom-bust cycles in unconventional oil and gas development. _Energy Research & Social Science_, 93, 102843. https://doi.org/10.1016/j.erss.2022.102843
 <br><br>
 
-## 💡 INVOLVEMENT
+## 💡 Involvement
 - Sexual Assault and Prevention Awareness Center - Ann Arbor, MI _(Septemer 2022 -  Present)_<br>
   - **Trained Volunteer** of Graduate Research, Outreach, Workshops, and Evaluation (GROWE) program
 - Blood Drives United - Ann Arbor, MI _(Septemer 2022 -  Present)_<br>
