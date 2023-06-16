@@ -14,8 +14,8 @@ _Graduate student at the University of Michigan, Ann Arbor_.<br>
     - **2023 Dow Sustainability Fellowship Recipient at Graham Sustainability Institute**
     - **Winter 2023 Pragram in Practical Policy Engagement (P3E) Student Research Fellowship at Gerald R. Ford School of Public Policy** 
   - Coursework: Justice Agendas for Addressing Environmental Crisis, Water Policy&Politics, Energy Justice, Behavior&Environment, Natural Resource Statistics, Quantitative Program Evaluation, Data Visualization, Performance Management, Values&Ethics, Macroeconomics, Microeconomics, Public Management, R for Public Policy 
-
 <br><br>
+
 **University of California, Davis** Davis, California _(September 2016 - June 2020)_<br>
   - Bachelor of Science in Environmental Policy Analysis and Planning (College of Agricultural and Environmental Sciences)
   - Minor in Music
@@ -23,23 +23,21 @@ _Graduate student at the University of Michigan, Ann Arbor_.<br>
   - **Honors🏆:** 
     - **Winner of the 2020 Paul A. Sabatier Undergraduate Research Award for Environmental Policy Analysis and Planning from the College of Agricultural and Environmental Sciences**
     - **Citation for Outstanding Performance from the College of Agricultural and Environmental Sciences**
-
+<br><br>
+## 🧑🏻‍💻 Professional Experience
+**International Fund for Animal Welfare (IFAW)** Remote _(May 2023 - Present)_<br>
+**Position:** Wildlife Policy and Analayis Intern in U.S. Campaign Team
 <br><br>
 
-## 🧑🏻‍💻 Work Experience
-**United Parcel Service (UPS)** Mahwah, New Jersey _(August 2021 - Present)_<br>
-**Position:** Data Scientist Co-op in Advanced Analytics Group(AAG)
+**Department of Public Health, City of Dearborn (DPH)** Dearborn, Michigan _(Janurary 2023 - April 2023)_<br>
+**Position:** Graduate Research Fellow
 <br><br>
 
-**United Parcel Service (UPS)** Mahwah, New Jersey _(June 2021 - August 2021)_<br>
-**Position:** Data Scientist Intern in Advanced Analytics Group(AAG)
+**International Fund for Animal Welfare (IFAW)** Remote _(June 2022 - December 2022)_<br>
+**Position:** Wildlife Policy and Analayis Intern in U.S. Campaign Team
 <br><br>
 
-**Stevens Institute of Technology** Hoboken, New Jersey _(February 2021 - May 2021)_<br>
-**Position:** Teaching assistant of EE575 (Control Systems)
-<br><br>
-
-## 🧑🏻‍🔬 Research Programs
+## 🧑🏻‍🔬 Research Experience
 **2021 UPS Project** Mahwah, New Jersey _(June 2021 - Present)_<br>
 **Objective:** Address Proximity
   - Profile UPS customers and find relationship between UPS Access Point and a large amount of Delivery Location Point
@@ -96,46 +94,9 @@ _Graduate student at the University of Michigan, Ann Arbor_.<br>
   - Got Interferometric hologram.
 <br><br>
 
-## 📌 ACADEMIC CONTESTS
-**The 2nd National “Intelligent Internet Competition”**  **The Second Prize** Chongqing, China _(March 2017 - August 2017)_<br>
-**Objective:** To design an intelligent crib based on non-contact heart rate measurement, guaranteeing the baby is left in a safe unattended environment.<br>
-**Position:** **Leader** of a 3-person team work, but **the only one** sticked to the end.
-  - Developed facial recognition and identification based on OpenCV.
-  - Processed the images of forehead area and crawled the signals of heart rate.
-  - Used STM32 to extract sensor signals, and controlled the relevant appliances by monitoring heart rate, such as adjusting fan speeds (fan is used to reduce the concentration of carbon dioxide).
-<br><br>
+## 💡 INVOLVEMENT
 
-**2016 National College Students Optoelectronic Design Competition** Chengdu, China _(March 2016 - July 2016)_<br>
-**Objective:** To design an autonomous airdrop UAV based on monocular vision.
-  - Developed facial recognition and identification based on OpenCV.
-  - Implemented the method of GPU parallel computation to process the images.
-  - Established a embedded system included NVIDIA Jetson TK1, Arduino and APM.
-<br><br>
 
-**Graduate Academic English Speech Contest**  **The Second Prize** Changchun, China _(Noveber 2015 - January 2016)_<br>
-Made a speech in English, expressing personal opinions on image processing based on OpenCv, the understanding about SLAM system and its application in automatic driving fields.
-<br><br>
-
-**The 5th OptoElectronic Design Competition**  **The First Prize** Changchun, China _(April 2015 - October 2015)_<br>
-  - Designed an optoelectronic intelligent toy car based on HSV color recognition.
-  - Applied Ant colony algorithm to the car, which made it possible to pick up 10 ping-pong balls within 35 seconds on a 4-square-meter ground.
-  - Applied dynamic PID control method
-<br><br>
-
-## 🎤 Public Speaking
-**2021 UPS Summer Intership Presentation**  **Intern representative** Mahwah, New Jersey _(August 2021)_<br>
-  - Selected by IT Vice President Ken Finnerty and Senior Director Mallory Freeman.
-  - Made a presentation to UPS CIEO Juan Perez on behalf of all interns in the IT department.
-  - Talked about intership project address proximity and the business values behind.
-<br><br>
-
-**Interviewed by China Youth Daily**  Changchun, China _(June 2017)_<br>
-As the leader director of [Yullion Studio](www.yullioner.com) got interviewed by **China Youth Daily**, and the interview report got reprinted by **China Education Network**, **People’s Daily Online** and other mainstream media.
-<br><br>
-
-**Photo-Electronic Design Contest Experience Sharing Meeting**  **Keynote Speaker** Changchun, China _(Noveber 2015)_<br>
-As the keynote speaker, hosted and organized a sharing meeting with more than 100 people. At the meeting, we shared the technology and knowledge used by our team to win the photoelectric design competition, so as to help students broaden their horizons.
-<br><br>
 
 ## 🏆 HONORS AND AWARDS
 - 2021.7 UPS Hackathon Final FAB FOUR **(4/24)**, presented to CEO&CIEO at UPS.
