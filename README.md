@@ -10,7 +10,7 @@ _Graduate student at the University of Michigan, Ann Arbor_.<br>
   - Master of Public Policy (Gerald R. Ford School of Public Policy)
     - Public Policy Analysis 
   - **GPA: 3.98**
-  - **Honors:** 
+  - **Honors🏆:** 
     - **2023 Dow Sustainability Fellowship Recipient at Graham Sustainability Institute**
     - **Winter 2023 Pragram in Practical Policy Engagement (P3E) Student Research Fellowship at Gerald R. Ford School of Public Policy** 
   - Coursework: Justice Agendas for Addressing Environmental Crisis, Water Policy&Politics, Energy Justice, Behavior&Environment, Natural Resource Statistics, Quantitative Program Evaluation, Data Visualization, Performance Management, Values&Ethics, Macroeconomics, Microeconomics, Public Management, R for Public Policy 
