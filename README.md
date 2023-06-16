@@ -106,45 +106,50 @@ _Graduate student at the University of Michigan, Ann Arbor_.<br>
 <br><br>
 
 **Innovation for Impact: Climate Change** - Ann Arbor, MI _(August 2022 - December 2022)_<br>
-**Objective:** Contactless vital signs measurement and analysis via FMCW radar<br>
-**Laboratory:** [The Bio-Electromagnetics Laboratory at Stevens Institute of Technology](https://www.tavassolian-lab.com/people)<br>
-**Advisor:** Associate Prof. Negar Tavassolian [Google Scholar](https://scholar.google.com/citations?hl=zh-CN&user=xTUFHmIAAAAJ)<br>
-**Reader:** Prof. Lei Wu [Google Scholar](https://scholar.google.com/citations?hl=zh-CN&user=BtMLsDIAAAAJ)
-  - Application of implementing Ultra-Wide Bandwidth Frequency-Modulated Continuous Wave (UWB-FMCW) radar to detect human vital signs.
-  - The wearable sensor shimmer3 GSR + and Apple Watch 3 were used as reference signals.
-  - The phase extraction region is determined by range FFT, and then the phase is extracted by vibration FFT. Through DC removal, Hanning window and two band-pass filters, human respiration signal and heartbeat signal were extracted respectively.
-  - After calculation and Pearson correlation coefficient (PCC) analysis, 96.4% correlation (Apple watch 3 as reference signal) and 95.5% and 83.8% correlation (shimmer3 GSR + as reference signal) were achieved respectively.
+**Client/Mentorship company:** [LanzaTech Inc.](https://lanzatech.com/)<br>
+- Collaborated with mentors from LanzaTech, Inc. to conduct research on biochar (byproduct of gasification-fermentation process, made from biomass wastes) market value, properties, and uses in California agricultural market for LanzaTech to identify potential values of biochar
+- Led region selection, site selection, market analysis, cost-benefit analysis (including monetized environmental benefits), agricultural and environmental benefits analysis, and carbon sequestration capacity calculations
+- Conclusions include: (only list non-confidential information)
+  - biochar market is rapidly expanding and getting more competitive and farmers are willing to take such regenerative soil solutions to address severe soil problems such as soil degradation and dehydration
+  - monetary benefits from sales and environmental benefits (wildfire reduction, carbon sequestration, water retention, crop yield increase) from biochar application in soil are significant
 <br><br>
 
 **Research Fellow Projects: [Supporting Environmental Friendly Mining Legislation in Michigan](https://practicalpolicy.umich.edu/research-projects/supporting-environmentally-friendly-mining-legislation-michigan)** - Ann Arbor, MI _(Janurary 2022 - May 2022)_<br>
-**Objective:** Implementing and accelerating Transformer and BERT by using CUDA C/C++<br>
-**Laboratory:** [HPDA (High-Performance Data Analytics) Lab at Stevens Institute of Technology](https://web.stevens.edu/hpda/)<br>
-**Supervisor:** Associate Prof. Hang Liu [Google Scholar](https://scholar.google.com/citations?hl=zh-CN&user=EbTnLekAAAAJ)<br>
-**Position:** **Leader** of a 3-person team work
-  - Most of the work was done on XSEDE cloud server which has a huge amount of GPU resources.
-  - Used Shared Memory & Memory Coalesced methods to optimize matrix multiplication and matrix transpose.
-  - The time to complete an epoch with shared memory optimization and non-optimization is 1.506s and 1.787s respectively.
+**Paricipated Stakeholders:** Michigan League of Conservation Voters, Michigan Senator Rosemary Bayer's office<br>
+- In collaboration with Michigan Conservation League of Voters and the Office of  Michigan State Senator Rosemary Bayer to support development of new environmental legislation regulating the mining of aggregate construction materials by researching best practices model legislations, promoting stakeholder engagement, and developing public education materials
+- Presented several written reports and presentations to important stakeholders, including Michigan League of Voters, Senator Rosemary Bayer, Representative Jullie Calley, Representative Jim Ellison, and EGLE Michigan at the end of the project
 <br><br>
 
-**Water Policy & Politics: Climate Change and Threats to National Flood Insurance Program Affordability ** - Ann Arbor, MI _(Janurary 2022 - May 2022)_<br>
-**Objective:** To design a non-contact palmar vein recognition instrument based on image processing<br>
-**Supervisor:** Associate Prof. Shifeng Wang<br>
-**Position:** **Leader** of a 3-person team work
-  - Tried the methods of open-close operation, Gaussian filtering, NiBlack local binarization, adaptive thresh- old, dilation and erosion to perfectly show palmar vein image.
-  - Used ORB test method to extract the key points of two images that need to be matched.
-  - Utilized a mathematical method RANSAC for eliminating mismatched points.
-<br><br>
+**Water Policy & Politics: Climate Change and Threats to National Flood Insurance Program Affordability** - Ann Arbor, MI _(Janurary 2022 - May 2022)_<br>
+- Collaborated with two group members on this policy brief to present analyses of the problems associated with the National Flood Insurance Program (NFIP) and recommendations targeting the problems of NFIP under the accerlerating climate change situation
+- Generated a formal policy brief documents and presented our findings in class
 
 ## 👩🏻‍🎓 Research Projects at UC DAVIS 
-**Public Land Management** Davis, CA _(Septemer 2019 - December 2019)_<br>
-**Objective:** To implement vortex beams based on LCOS-SLM, then propose a new method producing vector vortex beams based on LCOS-SLM.<br>
-**Supervisor:** Prof. Zhiying Liu<br>
-**Position:** **Leader** of a 3-person team work, but **the only one** sticked to the end.
-  - Adopted computer numerical simulation to compute the interference of object beam and reference beam.
-  - Got vortex beam and optimized index properties by Combining the algorithm principle of CGH and LCOS-SLM.
-  - Got Interferometric hologram.
+**How California’s Rebate Policies Impact Purchasing Interests in Electric Vehicles** Davis, CA _(Janurary 2020 - March 2020)_<br>
+- Designed Longitudinal-Panel research to explore the association between the change in rebate policies and people's interests in purchasing EVs via surveys 
+- Addressed the internal validity using five criteria and ensured the external validity by comparing demographic information and transportation modes between the levels of Sacramento and of California based on the American Community Survey 
+- Proposed specific sampling plans, targeting 1,600 residents in Sacramento to obtain at least 400 final responses 
+- Designed complete survey questions and measurement methods with a detailed illustration of the level of measurement 
+- Drafted analysis plans of the responses consisting of bivariate analysis, ordinal logistic regression, and binary logistic regression 
+- Presented budget plans including personnel, equipment, purchase of a database for addresses, copies and mailing of surveys and reminder postcards
 <br><br>
 
+**Analysis of the Desert Renewable Energy Conservation Plan in California** Davis, CA _(Septemer 2019 - December 2019)_<br>
+- Analyzed the conflicts between the expansion of energy construction and ecosystem conservation in California 
+- Resolved the controversy by proposing an alternative re-zoning plan to expand the development area and establish a regulatory agency to monitor the effects resulting from the construction, aimed at enhancing sustainable energy system development while protecting the ecosystems 
+<br><br>
+
+**Policy Evaluation: Cash Crop Expansion Analysis** Davis, CA _(Septemer 2018 - December 2018)_<br>
+- Conducted research on the problem of cash crop expansion in subtropical China 
+- Proposed three alternative policies to balance the tradeoff between economic development and ecosystem repair 
+- Completed policy evaluation based on four criteria: the potential for sustainable development, impact on low-income households, impact on government budget, and political feasibility 
+- Concluded that government subsidies for forest restoration and cash crop expansion could be a win-win situation
+<br><br>
+**Energy Policy: Rise of Electric and Plug-in Hybrid Vehicle** Davis, CA _(April 2018 - June 2018)_<br>
+- Investigated the supply and demand sides of EV markets in California with Prof. Alan Jenn
+- Collected vehicle data from Auto-trader and Carfax websites for about 50 models of EVs and monitored the sales cycles 
+- Interviewed sales representatives at dealerships in Elk Grove Auto Mall in California to investigate selling experiences, promotional activities, government incentives, customers’ inquiries, and customers’ adoption practices 
+- Concluded that the supply and demand in the EV market were growing slowly, and the availability of EVs was largely dependent on regions and customers’ demands
 
 ## 📖 Publications
 
