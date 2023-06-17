@@ -154,8 +154,8 @@ _Graduate student at the University of Michigan, Ann Arbor_.<br>
 
 ## 📖 Publications
 
-- Arnold, G. et al. (2022). Boom, Bust, Action! How Communities Can Cope with Boom-Bust Cycles in Unconventional Oil and Gas Development. _Review of Policy Research_, 00, 1-29. https://doi.org/10.1111/ropr.12490
-- Klasic, M. et al. (2022). A Review of community impacts of boom-bust cycles in unconventional oil and gas development. _Energy Research & Social Science_, 93, 102843. https://doi.org/10.1016/j.erss.2022.102843
+- Arnold, G. et al. (2022). Boom, Bust, Action! How Communities Can Cope with Boom-Bust Cycles in Unconventional Oil and Gas Development. _Review of Policy Research_, 00, 1-29. 【https://doi.org/10.1111/ropr.12490](https://doi.org/10.1111/ropr.12490)
+- Klasic, M. et al. (2022). A Review of community impacts of boom-bust cycles in unconventional oil and gas development. _Energy Research & Social Science_, 93, 102843. [https://doi.org/10.1016/j.erss.2022.102843](https://doi.org/10.1016/j.erss.2022.102843)
 <br><br>
 
 ## 🙋🏻‍♀️ Involvement
