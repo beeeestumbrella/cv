@@ -55,7 +55,7 @@ _Graduate student at the University of Michigan, Ann Arbor_.<br>
 **Water and Climate Policy Lab, University of Michigan** - Ann Arbor, MI _(Janurary 2022 - June 2022)_<br>
 - **Position:** Graduate Research Assistant<br>
 - **Duties:**
-  - Co-authored a Urban Climate Change Policy and Politics chapter in Handbook of Urban Politics and Policy, edited by Ronald K. Vogel (Toronto Metropolitan University) with Dr. Sara Hughes, offering overview of urban climate change policy and politics scholarship and how it has developed over the last 30 years, discussing important challenges faces going forward, and concluding areas of research that are well positioned to strengthen urban climate policy scholarship and practice (soon to be published)
+  - Co-authored a Urban Climate Change Policy and Politics chapter in _Handbook of Urban Politics and Policy_, edited by Ronald K. Vogel (Toronto Metropolitan University) with [Dr. Sara Hughes](https://scholar.google.com/citations?user=xCm8WwEAAAAJ&hl=en), offering overview of urban climate change policy and politics scholarship and how it has developed over the last 30 years, discussing important challenges faces going forward, and concluding areas of research that are well positioned to strengthen urban climate policy scholarship and practice **(soon to be published)**
 <br><br>
 
 **Gerald R. Ford School of Public Policy, University of Michigan** - Ann Arbor, MI _(September 2021 - December 2021)_<br>
