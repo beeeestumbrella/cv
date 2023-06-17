@@ -55,7 +55,7 @@ _Graduate student at the University of Michigan, Ann Arbor_.<br>
 **Water and Climate Policy Lab, University of Michigan** - Ann Arbor, MI _(Janurary 2022 - June 2022)_<br>
 - **Position:** Graduate Research Assistant<br>
 - **Duties:**
-  - Co-authored a Urban Climate Change Policy and Politics chapter in _Handbook of Urban Politics and Policy_, edited by Ronald K. Vogel (Toronto Metropolitan University) with [Dr. Sara Hughes](https://scholar.google.com/citations?user=xCm8WwEAAAAJ&hl=en), offering overview of urban climate change policy and politics scholarship and how it has developed over the last 30 years, discussing important challenges faces going forward, and concluding areas of research that are well positioned to strengthen urban climate policy scholarship and practice **(soon to be published)**
+  - **Co-authored a Urban Climate Change Policy and Politics chapter in _Handbook of Urban Politics and Policy_**, edited by Ronald K. Vogel (Toronto Metropolitan University) with [Dr. Sara Hughes](https://scholar.google.com/citations?user=xCm8WwEAAAAJ&hl=en), offering overview of urban climate change policy and politics scholarship and how it has developed over the last 30 years, discussing important challenges faces going forward, and concluding areas of research that are well positioned to strengthen urban climate policy scholarship and practice **(soon to be published)**
 <br><br>
 
 **Gerald R. Ford School of Public Policy, University of Michigan** - Ann Arbor, MI _(September 2021 - December 2021)_<br>
@@ -69,7 +69,7 @@ _Graduate student at the University of Michigan, Ann Arbor_.<br>
 - **Position:** Undergraduate Research Assistant<br>
 - **Duties:** 
   - Co-authored a paper to be submitted to an environmental management journal, concerning city government approaches to managing e-scooters and e-bikes (micro-mobility); starting the literature review, content analysis of interviews with city government employees, and coding themes (suspended project) 
-  - Took a leading role in examining the narratives from anti-fracking organizations, coding the policy narratives. conducting the literature review, and writing up in-depth case-study profiles for major “Boom and Bust” counties and cities for understanding the strategies used by pro- and anti-fracking advocates seeking to influence local and regional policy in the Marcellus Shale Region of the United States and co-authored papers published in Review of Policy Research and Energy Research & Social Sciences
+  - Took a **leading** role in examining the narratives from anti-fracking organizations, coding the policy narratives. conducting the literature review, and writing up in-depth case-study profiles for major “Boom and Bust” counties and cities for understanding the strategies used by pro- and anti-fracking advocates seeking to influence local and regional policy in the Marcellus Shale Region of the United States and co-authored papers published in Review of Policy Research and Energy Research & Social Sciences
   - Assisted Dr. Gwen Arnold in the paper published by the Public Administration with reviewing scholarly literature about policy entrepreneurship among front-line environmental managers and drafting the literature review 
   - Conducted research on fracking-related issues by analyzing municipal meeting minutes in New York and Colorado states to examine whether low-income communities are less likely to engage politically on fracking then more affluent communities 
 <br><br>
@@ -108,7 +108,7 @@ _Graduate student at the University of Michigan, Ann Arbor_.<br>
 **Innovation for Impact: Climate Change** - Ann Arbor, MI _(August 2022 - December 2022)_<br>
 - **Client/Mentorship company:** [LanzaTech Inc.](https://lanzatech.com/)<br>
 - Collaborated with mentors from LanzaTech, Inc. to conduct research on biochar (byproduct of gasification-fermentation process, made from biomass wastes) market value, properties, and uses in California agricultural market for LanzaTech to identify potential values of biochar
-- Led region selection, site selection, market analysis, cost-benefit analysis (including monetized environmental benefits), agricultural and environmental benefits analysis, and carbon sequestration capacity calculations
+- Took a **leading** role in conducting region selection, site selection, market analysis, cost-benefit analysis (including monetized environmental benefits), agricultural and environmental benefits analysis, and carbon sequestration capacity calculations
 - Conclusions include: (only list non-confidential information)
   - biochar market is rapidly expanding and getting more competitive and farmers are willing to take such regenerative soil solutions to address severe soil problems such as soil degradation and dehydration
   - monetary benefits from sales and environmental benefits (wildfire reduction, carbon sequestration, water retention, crop yield increase) from biochar application in soil are significant
