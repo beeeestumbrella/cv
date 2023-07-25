@@ -30,7 +30,10 @@ _Graduate student at the University of Michigan, Ann Arbor_.<br>
 **International Fund for Animal Welfare (IFAW)** - Remote _(May 2023 - Present)_<br>
 - **Position:** Wildlife Policy and Analayis Intern in U.S. Campaign Team<br>
 - **Duties:** 
-  - Drafting U.S. version's Disaster Response Plan for animals in disasters under the current climate change trend
+  - Drafting the U.S. Disaster Response Plan for Animals in Disasters based on the current climate change contexts
+    - Conducting research on national, state, and territory policies/plans for animal protection (household pets, service animals, livestock, and wildlife) in disasters
+    - Collecting data on state and federal disaster declaration numbers and creating maps to demonstrate the hotspots of extreme weather based on state/territory and FEMA-categorized regions
+    - Conducting comparative analysis and best practice analysis on state/territory plans
 <br><br>
 
 **Department of Public Health, City of Dearborn (DPH)** - Dearborn, MI _(Janurary 2023 - April 2023)_<br>
@@ -99,10 +102,10 @@ _Graduate student at the University of Michigan, Ann Arbor_.<br>
 **2023 Dow Sustainability Fellowship Project (team of 4)** - Ann Arbor, MI _(Janurary 2022 - Present)_<br>
 - **Client:** [Elevate (non-profit)](https://www.elevatenp.org/)
 - Collaborate with Elevate to specifically help with climate resilience and equity issues in Southeast Michigan
-  -  Analyze the disparate climate and resilience strategies across Southeast Michigan using the benchmarks created by the team 
-  -  Conduct comparate policy analysis of the plans and synthesize the best practices as a toolkit for municipalities and evalute where are the actions that align with Elevate’s strength so they can fit in to help
+  -  Analyze the disparate climate and resilience strategies across Southeast Michigan using the benchmarks created by me **(I lead the work)** 
+  -  Conduct a comparative policy analysis of the plans, synthesize the best practices as a toolkit for municipalities, and evaluate where the actions align with Elevate’s strengths so they can fit in to help
   -  Work together with community partners on the Eastside Resilience Initiatives to form a large network of resilience hubs in Detroit’s east side
-  -  Define types of climate emergencies and conditions of facility/staff activations of resilience hubs
+  -  Define types of climate emergencies and conditions of facility/staff activations of resilience hubs **(the definition will be formed based on a general emergency framework which is also independently developed by myself)**  
 <br><br>
 
 **Innovation for Impact: Climate Change** - Ann Arbor, MI _(August 2022 - December 2022)_<br>
