@@ -12,7 +12,7 @@ _Graduate student at the University of Michigan, Ann Arbor_.<br>
   - **GPA: 3.98**
   - **Honors🏆:** 
     - **2023 Dow Sustainability Fellowship Recipient** at [Graham Sustainability Institute](https://graham.umich.edu/dow)
-    - **Winter 2023 Pragram in Practical Policy Engagement (P3E) Student Research Fellowship** at Gerald R. Ford School of Public Policy
+    - **Winter 2023 Program in Practical Policy Engagement (P3E) Student Research Fellowship** at Gerald R. Ford School of Public Policy
   - Coursework: Justice Agendas for Addressing Environmental Crisis, Water Policy&Politics, Energy Justice, Behavior&Environment, Natural Resource Statistics, Quantitative Program Evaluation, Data Visualization, Performance Management, Values&Ethics, Macroeconomics, Microeconomics, Public Management, R for Public Policy 
 <br><br>
 
@@ -28,15 +28,15 @@ _Graduate student at the University of Michigan, Ann Arbor_.<br>
 
 ## 👩🏻‍💻 Professional Experience
 **International Fund for Animal Welfare (IFAW)** - Remote _(May 2023 - Present)_<br>
-- **Position:** Wildlife Policy and Analayis Intern in U.S. Campaign Team<br>
+- **Position:** Wildlife Policy and Analysis Intern in U.S. Campaign Team<br>
 - **Duties:** 
   - Drafting the U.S. Disaster Response Plan for Animals in Disasters based on the current climate change contexts
     - Conducting research on national, state, and territory policies/plans for animal protection (household pets, service animals, livestock, and wildlife) in disasters
-    - Collecting data on state and federal disaster declaration numbers and creating maps to demonstrate the hotspots of extreme weather based on state/territory and FEMA-categorized regions
+    - Collecting data on state and federal disaster declaration numbers and creating maps in R to demonstrate the hotspots of extreme weather based on state/territory and FEMA-categorized regions
     - Conducting comparative analysis and best practice analysis on state/territory plans
 <br><br>
 
-**Department of Public Health, City of Dearborn (DPH)** - Dearborn, MI _(Janurary 2023 - April 2023)_<br>
+**Department of Public Health, City of Dearborn (DPH)** - Dearborn, MI _(January 2023 - April 2023)_<br>
 - **Position:** Graduate Research Fellow<br>
 - **Duties:** 
   - Supported Dearborn DPH priorities in areas including environmental health, behavioral health, and health communications
@@ -47,18 +47,18 @@ _Graduate student at the University of Michigan, Ann Arbor_.<br>
 <br><br>
 
 **International Fund for Animal Welfare (IFAW)** - Remote _(June 2022 - December 2022)_<br>
-- **Position:** Wildlife Policy and Analayis Intern in U.S. Campaign Team<br>
+- **Position:** Wildlife Policy and Analysis Intern in U.S. Campaign Team<br>
 - **Duties:** 
   - Prepared literature review on peer-review articles which investigate the interdependence of wildlife conservation and climate change mitigation as well as adaptation for a report about this topic that will be published by IFAW in the near future
-  - Drafted the public comment submitted to the Federal Register, representing IFAW to comment on the U.S. Fish and Wildlife Serivce’s proposed rule on experimental population designation (FWS-HQ-ES-2021-0033)
-  - Conducted research on the impact of predation on livestock industry and the effectiveness of lethal predator controls in preparation for the testimony that IFAW submitted to the House Committee on Natural Resources in support of the passage of Canyon’s Law (H.R. 4951)
+  - Drafted the public comment submitted to the Federal Register, representing IFAW to comment on the U.S. Fish and Wildlife Service's proposed rule on experimental population designation (FWS-HQ-ES-2021-0033)
+  - Conducted research on the impact of predation on the livestock industry and the effectiveness of lethal predator controls in preparation for the testimony that IFAW submitted to the House Committee on Natural Resources in support of the passage of Canyon’s Law (H.R. 4951)
   - Prepared presentation materials on topics relevant to ESG (Environmental, social, and corporate governance) investing and green finance and investigated examples of green finance behaviors by institutions
 <br><br>
 
-**Water and Climate Policy Lab, University of Michigan** - Ann Arbor, MI _(Janurary 2022 - June 2022)_<br>
+**Water and Climate Policy Lab, University of Michigan** - Ann Arbor, MI _(January 2022 - June 2022)_<br>
 - **Position:** Graduate Research Assistant<br>
 - **Duties:**
-  - **Co-authored a Urban Climate Change Policy and Politics chapter in _Handbook of Urban Politics and Policy_**, edited by Ronald K. Vogel (Toronto Metropolitan University) with [Dr. Sara Hughes](https://scholar.google.com/citations?user=xCm8WwEAAAAJ&hl=en), offering overview of urban climate change policy and politics scholarship and how it has developed over the last 30 years, discussing important challenges faces going forward, and concluding areas of research that are well positioned to strengthen urban climate policy scholarship and practice **(soon to be published)**
+  - **Co-authored an Urban Climate Change Policy and Politics chapter in _Handbook of Urban Politics and Policy_**, edited by Ronald K. Vogel (Toronto Metropolitan University) with [Dr. Sara Hughes](https://scholar.google.com/citations?user=xCm8WwEAAAAJ&hl=en), offering an overview of urban climate change policy and political scholarship and how it has developed over the last 30 years, discussing important challenges faces going forward and concluding areas of research that are well positioned to strengthen urban climate policy scholarship and practice **(soon to be published)**
 <br><br>
 
 **Gerald R. Ford School of Public Policy, University of Michigan** - Ann Arbor, MI _(September 2021 - December 2021)_<br>
@@ -74,17 +74,17 @@ _Graduate student at the University of Michigan, Ann Arbor_.<br>
   - Co-authored a paper to be submitted to an environmental management journal, concerning city government approaches to managing e-scooters and e-bikes (micro-mobility); starting the literature review, content analysis of interviews with city government employees, and coding themes (suspended project) 
   - Took a **leading** role in examining the narratives from anti-fracking organizations, coding the policy narratives. conducting the literature review, and writing up in-depth case-study profiles for major “Boom and Bust” counties and cities for understanding the strategies used by pro- and anti-fracking advocates seeking to influence local and regional policy in the Marcellus Shale Region of the United States and co-authored papers published in Review of Policy Research and Energy Research & Social Sciences
   - Assisted Dr. Gwen Arnold in the paper published by the Public Administration with reviewing scholarly literature about policy entrepreneurship among front-line environmental managers and drafting the literature review 
-  - Conducted research on fracking-related issues by analyzing municipal meeting minutes in New York and Colorado states to examine whether low-income communities are less likely to engage politically on fracking then more affluent communities 
+  - Conducted research on fracking-related issues by analyzing municipal meeting minutes in New York and Colorado states to examine whether low-income communities are less likely to engage politically on fracking than more affluent communities 
 <br><br>
 
 **Institute of Transportational Studies, University of California, Davis** - Davis, CA _(April 2018 - December 2020)_<br>
 - **Position:** Undergraduate Research Assistant<br>
 - **Duties:** 
   - Investigated the supply and demand sides of EV markets in California for a group project under the supervision of Dr. Alan Jenn: collected vehicle data from Auto-trader and Carfax websites for about 50 models of EVs and monitored the sales cycles, interviewed sales representatives at dealerships in Elk Grove Auto Mall in California to investigate selling experiences, promotional activities, government incentives, customers’ inquiries, and adoption practices, concluded that the supply and demand in the EV market were growing slowly, and the availability of EVs was largely dependent on regions and customers’ demands 
-  - Assisted with conducting further studies on states’ transportation appropriation for an follow-up investigation of the California SB1 (Road Repair and Accountability Act of 2017), including data collection and categorization of transportation funds and of budget allocations in each state from 2010 to 2019 
+  - Assisted with conducting further studies on states’ transportation appropriation for a follow-up investigation of the California SB1 (Road Repair and Accountability Act of 2017), including data collection and categorization of transportation funds and budget allocations in each state from 2010 to 2019 
 <br><br>
 
-**Student Farm, University of California, Davis** - Davis, CA _(Janurary 2018 - April 2018)_<br>
+**Student Farm, University of California, Davis** - Davis, CA _(January 2018 - April 2018)_<br>
 - **Position:** Fresh Focus Program Intern<br>
 - **Duties:** 
   - Harvested vegetables and helped farmers with agricultural practices, including transplanting and weeding 
@@ -110,25 +110,25 @@ _Graduate student at the University of Michigan, Ann Arbor_.<br>
 
 **Innovation for Impact: Climate Change** - Ann Arbor, MI _(August 2022 - December 2022)_<br>
 - **Client/Mentorship company:** [LanzaTech Inc.](https://lanzatech.com/)<br>
-- Collaborated with mentors from LanzaTech, Inc. to conduct research on biochar (byproduct of gasification-fermentation process, made from biomass wastes) market value, properties, and uses in California agricultural market for LanzaTech to identify potential values of biochar
+- Collaborated with mentors from LanzaTech, Inc. to conduct research on biochar (a byproduct of gasification-fermentation process, made from biomass wastes) market value, properties, and uses in California agricultural market for LanzaTech to identify potential values of biochar
 - Took a **leading** role in conducting region selection, site selection, market analysis, cost-benefit analysis (including monetized environmental benefits), agricultural and environmental benefits analysis, and carbon sequestration capacity calculations
 - Conclusions include: (only list non-confidential information)
   - biochar market is rapidly expanding and getting more competitive and farmers are willing to take such regenerative soil solutions to address severe soil problems such as soil degradation and dehydration
   - monetary benefits from sales and environmental benefits (wildfire reduction, carbon sequestration, water retention, crop yield increase) from biochar application in soil are significant
 <br><br>
 
-**Research Fellow Projects: [Supporting Environmental Friendly Mining Legislation in Michigan](https://practicalpolicy.umich.edu/research-projects/supporting-environmentally-friendly-mining-legislation-michigan)** - Ann Arbor, MI _(Janurary 2022 - May 2022)_<br>
+**Research Fellow Projects: [Supporting Environmental Friendly Mining Legislation in Michigan](https://practicalpolicy.umich.edu/research-projects/supporting-environmentally-friendly-mining-legislation-michigan)** - Ann Arbor, MI _(January 2022 - May 2022)_<br>
 - **Paricipated Stakeholders:** Michigan League of Conservation Voters, Michigan Senator Rosemary Bayer's office<br>
-- In collaboration with Michigan Conservation League of Voters and the Office of  Michigan State Senator Rosemary Bayer to support development of new environmental legislation regulating the mining of aggregate construction materials by researching best practices model legislations, promoting stakeholder engagement, and developing public education materials
+- In collaboration with the Michigan Conservation League of Voters and the Office of  Michigan State Senator Rosemary Bayer to support the development of new environmental legislation regulating the mining of aggregate construction materials by researching best practices model legislations, promoting stakeholder engagement, and developing public education materials
 - Presented several written reports and presentations to important stakeholders, including Michigan League of Voters, Senator Rosemary Bayer, Representative Jullie Calley, Representative Jim Ellison, and EGLE Michigan at the end of the project
 <br><br>
 
-**Water Policy & Politics: Climate Change and Threats to National Flood Insurance Program Affordability** - Ann Arbor, MI _(Janurary 2022 - May 2022)_<br>
-- Collaborated with two group members on this policy brief to present analyses of the problems associated with the National Flood Insurance Program (NFIP) and recommendations targeting the problems of NFIP under the accerlerating climate change situation
-- Generated a formal policy brief documents and presented our findings in class
+**Water Policy & Politics: Climate Change and Threats to National Flood Insurance Program Affordability** - Ann Arbor, MI _(January 2022 - May 2022)_<br>
+- Collaborated with two group members on this policy brief to present analyses of the problems associated with the National Flood Insurance Program (NFIP) and recommendations targeting the problems of NFIP under the accelerating climate change situation
+- Generated formal policy brief documents and presented our findings in class
 
 ## 👩🏻‍🎓 Research Projects at UC DAVIS 
-**How California’s Rebate Policies Impact Purchasing Interests in Electric Vehicles** - Davis, CA _(Janurary 2020 - March 2020)_<br>
+**How California’s Rebate Policies Impact Purchasing Interests in Electric Vehicles** - Davis, CA _(January 2020 - March 2020)_<br>
 - Designed Longitudinal-Panel research to explore the association between the change in rebate policies and people's interests in purchasing EVs via surveys 
 - Addressed the internal validity using five criteria and ensured the external validity by comparing demographic information and transportation modes between the levels of Sacramento and of California based on the American Community Survey 
 - Proposed specific sampling plans, targeting 1,600 residents in Sacramento to obtain at least 400 final responses 
@@ -137,7 +137,7 @@ _Graduate student at the University of Michigan, Ann Arbor_.<br>
 - Presented budget plans including personnel, equipment, purchase of a database for addresses, copies and mailing of surveys and reminder postcards
 <br><br>
 
-**Analysis of the Desert Renewable Energy Conservation Plan in California** - Davis, CA _(Septemer 2019 - December 2019)_<br>
+**Analysis of the Desert Renewable Energy Conservation Plan in California** - Davis, CA _(September 2019 - December 2019)_<br>
 - Analyzed the conflicts between the expansion of energy construction and ecosystem conservation in California 
 - Resolved the controversy by proposing an alternative re-zoning plan to expand the development area and establish a regulatory agency to monitor the effects resulting from the construction, aimed at enhancing sustainable energy system development while protecting the ecosystems 
 <br><br>
@@ -162,13 +162,13 @@ _Graduate student at the University of Michigan, Ann Arbor_.<br>
 <br><br>
 
 ## 🙋🏻‍♀️ Involvement
-- Sexual Assault and Prevention Awareness Center - Ann Arbor, MI _(Septemer 2022 -  Present)_<br>
+- Sexual Assault and Prevention Awareness Center - Ann Arbor, MI _(September 2022 -  Present)_<br>
   - **Trained Volunteer** of Graduate Research, Outreach, Workshops, and Evaluation (GROWE) program
 - Blood Drives United - Ann Arbor, MI _(Septemer 2022 -  Present)_<br>
   - **Trained Volunteer**
-- Michigan University-wide Sustainability and Environment Conference - Ann Arbor, MI _(July 2021 -  Feburary 2022)_<br>
+- Michigan University-wide Sustainability and Environment Conference - Ann Arbor, MI _(July 2021 -  February 2022)_<br>
   - **2022 Conference Committee Member**
-   - Primary duties include brainstorming possible list of speakers for committee to review, contacting and inviting speakers, brainstorming possible list of events, settling structures of events, and developing detailed conference agendas
+   - Primary duties include brainstorming a possible list of speakers for the committee to review, contacting and inviting speakers, brainstorming a possible list of events, settling structures of events, and developing detailed conference agendas
 - Environmental Justice Lunchtime Speaker Series: Just Agendas for Addressing Environmental Crisis - Ann Arbor, MI _(September 2021)_<br>
   - **Facilitator and Commentator**
 - UC Davis Symphony Orchestra - Davis, CA _(Septemer 2018 -  June 2019)_<br>
@@ -182,6 +182,7 @@ _Graduate student at the University of Michigan, Ann Arbor_.<br>
   - Data Visualization (R, Excel)
   - GIS (ArcGIS, GoogleMap)
   - Sensitivitiy Analysis
+  - Python (beginner)
 - Qualitative
   - Content coding/analysis
   - Best practice research
@@ -195,5 +196,5 @@ _Graduate student at the University of Michigan, Ann Arbor_.<br>
 - I'm the star baker in my family 👩🏻‍🍳
   - an advocate of stress baking to cope with the crazy world 🥐
 - Weight-lifting is a must-have in my life 💪🏻🏋🏻‍♀️
-- Books and music heals my soul 🥹
+- Books and music heal my soul 🥹
 
