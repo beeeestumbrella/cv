@@ -102,7 +102,7 @@ _Graduate student at the University of Michigan, Ann Arbor_.<br>
 **2023 Dow Sustainability Fellowship Project (team of 4)** - Ann Arbor, MI _(Janurary 2022 - Present)_<br>
 - **Client:** [Elevate (non-profit)](https://www.elevatenp.org/)
 - Collaborate with Elevate to specifically help with climate resilience and equity issues in Southeast Michigan
-  -  Analyze the disparate climate and resilience strategies across Southeast Michigan using the benchmarks created by me **(I lead the work)** 
+  -  Analyze the disparate climate and resilience strategies across Southeast Michigan using the benchmarks created by myself **(I lead the work)** 
   -  Conduct a comparative policy analysis of the plans, synthesize the best practices as a toolkit for municipalities, and evaluate where the actions align with Elevate’s strengths so they can fit in to help
   -  Work together with community partners on the Eastside Resilience Initiatives to form a large network of resilience hubs in Detroit’s east side
   -  Define types of climate emergencies and conditions of facility/staff activations of resilience hubs **(the definition will be formed based on a general emergency framework which is also independently developed by myself)**  
@@ -113,7 +113,7 @@ California and how climate justice is being upheld in terms of air quality impro
 - Utilized data on California’s Air Quality Statistics and Indexes by CBSA location collected from EPA to visualize (in R):
   - (1) How has the air quality changed in the past 10 years (2012-2011) in California?
   - (2) How has the air quality in climate-disadvantaged communities changed compared with non-disadvantaged communities in past 10 years (2012-2011) in California?
-- Created time-series and spatial visualizations using factors including: Ozone, PM 2.5, CO, # of good quality days, # of unhealthy quality days
+- Created time-series and spatial visualizations using factors including Ozone, PM 2.5, CO, # of good quality days, # of unhealthy quality days
 - Concluded:
   - (1) There have been no obvious spatial changes in air quality across the states in the past 10 years.
   - (2) Overall, the air quality has improved in the past 10 years across the state, with some fluctuations.
