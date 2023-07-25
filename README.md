@@ -108,6 +108,18 @@ _Graduate student at the University of Michigan, Ann Arbor_.<br>
   -  Define types of climate emergencies and conditions of facility/staff activations of resilience hubs **(the definition will be formed based on a general emergency framework which is also independently developed by myself)**  
 <br><br>
 
+**Data Visualization Project - How the air quality improves with the strict air pollution regulations in place in
+California and how climate justice is being upheld in terms of air quality improvement in the past 10 years?** - Ann Arbor, MI _(January 2023 - April 2023)_<br>
+- Utilized data on California’s Air Quality Statistics and Indexes by CBSA location collected from EPA to visualize (in R):
+  - (1) How has the air quality changed in the past 10 years (2012-2011) in California?
+  - (2) How has the air quality in climate-disadvantaged communities changed compared with non-disadvantaged communities in past 10 years (2012-2011) in California?
+- Created time-series and spatial visualizations using factors including: Ozone, PM 2.5, CO, # of good quality days, # of unhealthy quality days
+- Concluded:
+  - (1) There have been no obvious spatial changes in air quality across the states in the past 10 years.
+  - (2) Overall, the air quality has improved in the past 10 years across the state, with some fluctuations.
+  - (3) The comparison between disadvantaged and non-disadvantaged communities shows the ineffectiveness of the climate justice slogan advocated by the state government.
+<br><br>
+
 **Innovation for Impact: Climate Change** - Ann Arbor, MI _(August 2022 - December 2022)_<br>
 - **Client/Mentorship company:** [LanzaTech Inc.](https://lanzatech.com/)<br>
 - Collaborated with mentors from LanzaTech, Inc. to conduct research on biochar (a byproduct of gasification-fermentation process, made from biomass wastes) market value, properties, and uses in California agricultural market for LanzaTech to identify potential values of biochar
