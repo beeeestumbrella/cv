@@ -102,9 +102,9 @@ _Graduate student at the University of Michigan, Ann Arbor_.<br>
 **2023 Dow Sustainability Fellowship Project (team of 4)** - Ann Arbor, MI _(Janurary 2022 - Present)_<br>
 - **Client:** [Elevate (non-profit)](https://www.elevatenp.org/)
 - Collaborate with Elevate to specifically help with climate resilience and equity issues in Southeast Michigan
-  -  Analyze the disparate climate and resilience strategies across Southeast Michigan using the benchmarks created by myself **(I lead the work)** 
-  -  Conduct a comparative policy analysis of the plans, synthesize the best practices as a toolkit for municipalities, and evaluate where the actions align with Elevate’s strengths so they can fit in to help
-  -  Work together with community partners on the Eastside Resilience Initiatives to form a large network of resilience hubs in Detroit’s east side
+  -  **Lead** the team to analyze the disparate climate and resilience strategies across Southeast Michigan using the benchmarks created by myself
+  -  Conduct a comparative policy analysis of the plans, synthesize the best practices as a toolkit for municipalities, and evaluate where the actions align with Elevate’s strengths so they can fit in to help - deliverables will be presented as a one-page summary
+  -  Work together with community partners on the Eastside Resilience Initiatives to form a large network of resilience hubs in Detroit’s East side
   -  Define types of climate emergencies and conditions of facility/staff activations of resilience hubs **(the definition will be formed based on a general emergency framework which is also independently developed by myself)**  
 <br><br>
 
