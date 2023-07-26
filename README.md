@@ -32,7 +32,7 @@ _Graduate student at the University of Michigan, Ann Arbor_.<br>
 - **Duties:** 
   - Drafting the U.S. Disaster Response Plan for Animals in Disasters based on the current climate change contexts
     - Conducting research on national, state, and territory policies/plans for animal protection (household pets, service animals, livestock, and wildlife) in disasters
-    - Collecting data on state and federal disaster declaration numbers and creating maps in R to demonstrate the hotspots of extreme weather based on state/territory and FEMA-categorized regions
+    - Collecting data on state and federal disaster declarations and creating maps in R to demonstrate the hotspots of extreme weather based on state/territory and FEMA-categorized regions
     - Conducting comparative analysis and best practice analysis on state/territory plans
 <br><br>
 
@@ -109,13 +109,13 @@ _Graduate student at the University of Michigan, Ann Arbor_.<br>
 <br><br>
 
 **Data Visualization Project - How the air quality improves with the strict air pollution regulations in place in
-California and how climate justice is being upheld in terms of air quality improvement in the past 10 years?** - Ann Arbor, MI _(January 2023 - April 2023)_<br>
+California and how climate justice has been upheld in terms of air quality improvement in the past 10 years?** - Ann Arbor, MI _(January 2023 - April 2023)_<br>
 - Utilized data on California’s Air Quality Statistics and Indexes by CBSA location collected from EPA to visualize (in R):
   - (1) How has the air quality changed in the past 10 years (2012-2011) in California?
   - (2) How has the air quality in climate-disadvantaged communities changed compared with non-disadvantaged communities in past 10 years (2012-2011) in California?
 - Created time-series and spatial visualizations using factors including Ozone, PM 2.5, CO, # of good quality days, # of unhealthy quality days
 - Concluded:
-  - (1) There have been no obvious spatial changes in air quality across the states in the past 10 years.
+  - (1) There has been no obvious trend of spatial changes in air quality across the states in the past 10 years.
   - (2) Overall, the air quality has improved in the past 10 years across the state, with some fluctuations.
   - (3) The comparison between disadvantaged and non-disadvantaged communities shows the ineffectiveness of the climate justice slogan advocated by the state government.
 <br><br>
@@ -130,7 +130,7 @@ California and how climate justice is being upheld in terms of air quality impro
 <br><br>
 
 **Research Fellow Projects: [Supporting Environmental Friendly Mining Legislation in Michigan](https://practicalpolicy.umich.edu/research-projects/supporting-environmentally-friendly-mining-legislation-michigan)** - Ann Arbor, MI _(January 2022 - May 2022)_<br>
-- **Paricipated Stakeholders:** Michigan League of Conservation Voters, Michigan Senator Rosemary Bayer's office<br>
+- **Participated Stakeholders:** Michigan League of Conservation Voters, Michigan Senator Rosemary Bayer's office<br>
 - In collaboration with the Michigan Conservation League of Voters and the Office of  Michigan State Senator Rosemary Bayer to support the development of new environmental legislation regulating the mining of aggregate construction materials by researching best practices model legislations, promoting stakeholder engagement, and developing public education materials
 - Presented several written reports and presentations to important stakeholders, including Michigan League of Voters, Senator Rosemary Bayer, Representative Jullie Calley, Representative Jim Ellison, and EGLE Michigan at the end of the project
 <br><br>
