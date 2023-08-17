@@ -106,7 +106,9 @@ _Graduate student at the University of Michigan, Ann Arbor_.<br>
   -  **Lead** the team to analyze the disparate climate and resilience strategies across Southeast Michigan using the benchmarks created by myself
   -  Conduct a comparative policy analysis of the plans, synthesize the best practices as a toolkit for municipalities, and evaluate where the actions align with Elevate’s strengths so they can fit in to help - deliverables will be presented as a one-page summary
   -  Work together with community partners on the Eastside Resilience Initiatives to form a large network of resilience hubs in Detroit’s Eastside
-  -  Define types of climate emergencies, conditions of facility/staff activations of resilience hubs, and corresponding response mechanisms **(the definition will be formed based on a general emergency framework which is also independently developed by myself)**  
+  -  Define types of climate emergencies, conditions of facility/staff activations of resilience hubs, and corresponding response mechanisms
+**(the definition will be formed based on a general emergency framework which is also independently developed by myself)**
+      - Types of emergencies include: extreme heat, flooding, winter storms, power outages, and air quality 
 <br><br>
 
 **Data Visualization Project - How the air quality improves with the strict air pollution regulations in place in
