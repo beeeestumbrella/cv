@@ -30,10 +30,11 @@ _Graduate student at the University of Michigan, Ann Arbor_.<br>
 **International Fund for Animal Welfare (IFAW)** - Remote _(May 2023 - Present)_<br>
 - **Position:** Wildlife Policy and Analysis Intern in U.S. Campaign Team<br>
 - **Duties:** 
-  - Drafting the U.S. Disaster Response Plan for Animals in Disasters based on the current climate change contexts
+  - Drafting the U.S. Disaster Response Plan for Animals in Disasters based on the current climate change context
     - Conducting research on national, state, and territory policies/plans for animal protection (household pets, service animals, livestock, and wildlife) in disasters
     - Collecting data on state and federal disaster declarations and creating maps in R to demonstrate the hotspots of extreme weather based on state/territory and FEMA-categorized regions
     - Conducting comparative analysis and best practice analysis on state/territory plans
+    - Presenting stakeholder analysis at federal, state, and local levels 
 <br><br>
 
 **Department of Public Health, City of Dearborn (DPH)** - Dearborn, MI _(January 2023 - April 2023)_<br>
@@ -104,8 +105,8 @@ _Graduate student at the University of Michigan, Ann Arbor_.<br>
 - Collaborate with Elevate to specifically help with climate resilience and equity issues in Southeast Michigan
   -  **Lead** the team to analyze the disparate climate and resilience strategies across Southeast Michigan using the benchmarks created by myself
   -  Conduct a comparative policy analysis of the plans, synthesize the best practices as a toolkit for municipalities, and evaluate where the actions align with Elevate’s strengths so they can fit in to help - deliverables will be presented as a one-page summary
-  -  Work together with community partners on the Eastside Resilience Initiatives to form a large network of resilience hubs in Detroit’s East side
-  -  Define types of climate emergencies and conditions of facility/staff activations of resilience hubs **(the definition will be formed based on a general emergency framework which is also independently developed by myself)**  
+  -  Work together with community partners on the Eastside Resilience Initiatives to form a large network of resilience hubs in Detroit’s Eastside
+  -  Define types of climate emergencies, conditions of facility/staff activations of resilience hubs, and corresponding response mechanisms **(the definition will be formed based on a general emergency framework which is also independently developed by myself)**  
 <br><br>
 
 **Data Visualization Project - How the air quality improves with the strict air pollution regulations in place in
@@ -125,7 +126,7 @@ California and how climate justice has been upheld in terms of air quality impro
 - Collaborated with mentors from LanzaTech, Inc. to conduct research on biochar (a byproduct of gasification-fermentation process, made from biomass wastes) market value, properties, and uses in California agricultural market for LanzaTech to identify potential values of biochar
 - Took a **leading** role in conducting region selection, site selection, market analysis, cost-benefit analysis (including monetized environmental benefits), agricultural and environmental benefits analysis, and carbon sequestration capacity calculations
 - Conclusions include: (only list non-confidential information)
-  - biochar market is rapidly expanding and getting more competitive and farmers are willing to take such regenerative soil solutions to address severe soil problems such as soil degradation and dehydration
+  - biochar market is rapidly expanding and getting more competitive, and farmers are willing to take such regenerative soil solutions to address severe soil problems such as soil degradation and dehydration
   - monetary benefits from sales and environmental benefits (wildfire reduction, carbon sequestration, water retention, crop yield increase) from biochar application in soil are significant
 <br><br>
 
