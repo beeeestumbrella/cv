@@ -33,6 +33,7 @@ _Graduate student at the University of Michigan, Ann Arbor_.<br>
   - Drafting the U.S. Disaster Response Plan for Animals in Disasters based on the current climate change context
     - Conducting research on national, state, and territory policies/plans for animal protection (household pets, service animals, livestock, and wildlife) in disasters
     - Collecting data on state and federal disaster declarations and creating maps in R to demonstrate the hotspots of extreme weather based on state/territory and FEMA-categorized regions
+    - preparing overlapping risk map with 3 layers of data: human population density, animal species density (both pets and wildlife), and disaster declaration numbers
     - Conducting comparative analysis and best practice analysis on state/territory plans
     - Presenting stakeholder analysis at federal, state, and local levels 
 <br><br>
@@ -73,7 +74,7 @@ _Graduate student at the University of Michigan, Ann Arbor_.<br>
 - **Position:** Undergraduate Research Assistant<br>
 - **Duties:** 
   - Co-authoring a paper to be submitted to an environmental management journal, concerning city government approaches to managing e-scooters and e-bikes (micro-mobility); starting the literature review, content analysis of interviews with city government employees, and coding themes (suspended project) 
-  - Took a **leading** role in examining the narratives from anti-fracking organizations, coding the policy narratives. conducting the literature review, and writing up in-depth case-study profiles for major “Boom and Bust” counties and cities for understanding the strategies used by pro- and anti-fracking advocates seeking to influence local and regional policy in the Marcellus Shale Region of the United States and co-authored papers published in Review of Policy Research and Energy Research & Social Sciences
+  - Took a **leading** role in examining the narratives from pro- and anti-fracking organizations, coding the policy narratives, conducting the literature review, and writing up in-depth case-study profiles for major “Boom and Bust” counties and cities for understanding the strategies used by pro- and anti-fracking advocates seeking to influence local and regional policy in the Marcellus Shale Region of the United States and co-authored papers published in Review of Policy Research and Energy Research & Social Sciences
   - Assisted Dr. Gwen Arnold in the paper published by the Public Administration with reviewing scholarly literature about policy entrepreneurship among front-line environmental managers and drafting the literature review 
   - Conducted research on fracking-related issues by analyzing municipal meeting minutes in New York and Colorado states to examine whether low-income communities are less likely to engage politically on fracking than more affluent communities 
 <br><br>
