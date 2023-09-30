@@ -28,7 +28,7 @@ _Graduate student at the University of Michigan, Ann Arbor_.<br>
 
 ## 👩🏻‍💻 Professional Experience
 **International Fund for Animal Welfare (IFAW)** - Remote _(May 2023 - Present)_<br>
-- **Position:** Wildlife Policy and Analysis Intern in U.S. Campaign Team<br>
+- **Position:** Conservation Policy Intern in U.S. Campaign Team<br>
 - **Duties:** 
   - Drafting the U.S. Disaster Response Plan for Animals in Disasters based on the current climate change context
     - Conducting research on national, state, and territory policies/plans for animal protection (household pets, service animals, livestock, and wildlife) in disasters
