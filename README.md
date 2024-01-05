@@ -73,7 +73,7 @@ _Graduate student at the University of Michigan, Ann Arbor_.<br>
 - Supervised by Dr. Sara Hughes<br>
 - Investigate why some cities are more successful than others in implementing equity promises of climate action plans in California through addressing: (1) have cities that include equity promises in their climate plans developed strong implementation strategies to implement those promises/actions; (2) what is the actual implementation status of the equity promises/actions addressed in the plan; (3) is there a match between the strength of implementation strategies and implementation status; and (4) what are the implementation opportunities and challenges do cities face 
 - Primary methods include data collection, content analysis, qualitative comparative analysis, evaluation metric development, interviews, policy evaluation, and statistical analysis (if necessary)
-- Plan to be submitted to a peer-reviewed journal in April 2023 
+- Plan to be submitted to a peer-reviewed journal in April 2024 
 <br><br>
 
 **2023 Dow Sustainability Fellowship Project (team of 4)** - Ann Arbor, MI _(Janurary 2023 - December 2023)_<br>
