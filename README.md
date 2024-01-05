@@ -123,7 +123,7 @@ California and how climate justice has been upheld in terms of air quality impro
 
 **Water Policy & Politics: Climate Change and Threats to National Flood Insurance Program Affordability** - Ann Arbor, MI _(January 2022 - May 2022)_<br>
 - Collaborated with two group members on this policy brief to present analyses of the problems associated with the National Flood Insurance Program (NFIP) and recommendations targeting the problems of NFIP under the accelerating climate change situation
-- Generated formal policy brief documents and presented our findings in class
+- Generated a [formal policy brief](https://drive.google.com/file/d/1S483zdtL5F6ule6-t9U8qQRjhbx0Qf-s/view?usp=sharing) and presented our findings in class
 
 ## 👩🏻‍🎓 Research Projects at UC DAVIS 
 
