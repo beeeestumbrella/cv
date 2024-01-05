@@ -64,8 +64,8 @@ _Graduate student at the University of Michigan, Ann Arbor_.<br>
 **Student Farm, University of California, Davis** - Davis, CA _(January 2018 - April 2018)_<br>
 - **Position:** Fresh Focus Program Intern<br>
 - **Duties:** 
-  - Harvested vegetables and helped farmers with agricultural practices, including transplanting and weeding 
-  - Improved collaboration and communication skills and nurtured a hard-working spirit and sense of responsibility
+  - Harvested vegetables and helped farmers with agricultural practices, including transplanting and weeding, three times a week
+  - Coordinated the packing and delivering of packed and washed vegetables to dining commons
 <br><br>
 
 ## 👩🏻‍🔬 Research Projects at UMICH
